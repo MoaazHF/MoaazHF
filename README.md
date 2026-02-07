@@ -1,5 +1,5 @@
 # Hello there, I'm Moaaz ! 
-###  Computer Science Student |A Joniur Full-Stack Developer
+###  Computer Science Student |Joniur Full-Stack Developer
 
 I'm a passionate developer focused on building scalable web applications and exploring cloud technologies. I love turning complex problems into simple, beautiful designs.
 
