@@ -1,7 +1,7 @@
 # Hello there, I'm Moaaz ! 
 ###  Computer Science Student | Joniur Full-Stack Developer
 
-I'm a passionate developer focused on building scalable web applications and exploring cloud technologies. I love turning complex problems into simple, beautiful designs.
+I'm a passionate developer focused on building scalable web applications and exploring cloud technologies.
 
 -  **I’m currently working on:** A Full-stack The Grind Hotel using NestJS & React.
 -  **I’m currently learning:** Frontend, Advanced Backend Architecture and Devops.
