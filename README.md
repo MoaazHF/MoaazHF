@@ -1,17 +1,17 @@
-# Hi there, I'm Moaaz Hassan! 👋
-### 👨‍💻 Computer Science Student | Full Stack Developer
+# Hi there, I'm Moaaz Hassan! 
+###  Computer Science Student | Full Stack Developer
 
 I'm a passionate developer focused on building scalable web applications and exploring cloud technologies. I love turning complex problems into simple, beautiful designs.
 
-- 🔭 **I’m currently working on:** A Full-stack The Grind Hotel using NestJS & React.
-- 🌱 **I’m currently learning:** Frontend, Advanced Backend Architecture and Devops.
-- 💬 **Ask me about:** React, Node.js, PostgreSQL, and Docker.
-- 📫 **How to reach me:** https://www.linkedin.com/in/moaazhassann/ | moazhasanfarouk@gmail.com
+-  **I’m currently working on:** A Full-stack The Grind Hotel using NestJS & React.
+-  **I’m currently learning:** Frontend, Advanced Backend Architecture and Devops.
+-  **Ask me about:** React, Node.js, PostgreSQL, and Docker.
+-  **How to reach me:** https://www.linkedin.com/in/moaazhassann/ | moazhasanfarouk@gmail.com
 
 
 ---
 
-### 🛠️ Tech Stack
+###  Technologies
 
 **Frontend:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -30,8 +30,3 @@ I'm a passionate developer focused on building scalable web applications and exp
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoaazHF&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoaazHF&layout=compact&theme=radical)
