@@ -5,7 +5,7 @@ I'm a passionate developer focused on building scalable web applications and exp
 
 -  **I’m currently working on:** A Full-stack The Grind Hotel using NestJS & React.
 -  **I’m currently learning:** Frontend, Advanced Backend Architecture and Devops.
--  **Ask me about:** React, Node.js, PostgreSQL, and Docker.
+-  **Ask me about:** React, Node.js ,Nestjs, PostgreSQL, and Docker.
 -  **How to reach me:** https://www.linkedin.com/in/moaazhassann/ | moazhasanfarouk@gmail.com
 
 
