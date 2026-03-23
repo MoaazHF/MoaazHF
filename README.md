@@ -77,7 +77,7 @@
     </tr>
     <tr>
         <td align="center" valign="middle" width="50">
-          <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="35" alt="Backend, DB & Tools gif">
+          <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35" alt="Backend, DB & Tools gif">
         </td>
         <td valign="middle">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js" />
@@ -95,7 +95,6 @@
         </td>
     </tr>
 </table>
-
 
 ---
 
