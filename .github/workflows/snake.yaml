@@ -2,16 +2,14 @@ name: Generate Snake
 
 on:
   schedule:
-    # يتم التحديث تلقائياً كل يوم في منتصف الليل
     - cron: "0 0 * * *"
-  # يسمح لك بتشغيل السكربت يدوياً من تبويب Actions
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # إعطاء الرمز التلقائي صلاحية الكتابة
+      contents: write
 
     steps:
       - name: Checkout Repository
