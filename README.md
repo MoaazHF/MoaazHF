@@ -55,7 +55,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Languages
 
@@ -135,7 +135,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <details open>
 <summary><h3>📋 Task Management System — Feb 2026</h3></summary>
