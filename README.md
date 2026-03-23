@@ -212,15 +212,15 @@
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> GitHub Stats
 
-<details><summary><h3>🔥 Streak Stats</h3></summary>
+<details><summary><h3> Streak Stats</h3></summary>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoaazHF&theme=tokyonight_duo" alt="MoaazHF"/>
+  <img src="https://streak-stats.demolab.com?user=MoaazHF&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="MoaazHF"/>
 </p>
 
 </details>
 
-<details><summary><h3>💻 Profile Stats</h3></summary>
+<details><summary><h3> Profile Stats</h3></summary>
 
 <p align="center">
   <img alt="Moaaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MoaazHF&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="230px"/>
