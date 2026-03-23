@@ -229,8 +229,6 @@ flowchart LR
 
 ## 🐍 Snake Eating My Contributions
 
-## Snake Eating My Contributions
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoaazHF/MoaazHF/output/github-contribution-grid-snake-dark.svg">
