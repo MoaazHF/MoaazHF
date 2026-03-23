@@ -229,14 +229,6 @@
 
 </details>
 
-<details><summary><h3>🏆 Trophies</h3></summary>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoaazHF&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="MoaazHF"/>
-</p>
-
-</details>
-
 ---
 
 <p align="center">
