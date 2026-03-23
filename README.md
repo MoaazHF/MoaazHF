@@ -56,82 +56,40 @@
 ---
 
 ##  Technical Skills
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Languages
-
-<p align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
-  &emsp;
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white"/>
-  &emsp;
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"/>
-  &emsp;
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/>
-  &emsp;
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
-</p>
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"></picture> Frontend
-
-<p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
-  &emsp;
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white"/>
-  &emsp;
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white"/>
-  &emsp;
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white"/>
-  &emsp;
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
-  &emsp;
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
-</p>
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Backend & Databases
-
-<p align="center">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white"/>
-  &emsp;
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white"/>
-  &emsp;
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=plastic&logo=express&logoColor=white"/>
-  &emsp;
-  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white"/>
-  &emsp;
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=plastic&logo=postgresql&logoColor=white"/>
-  &emsp;
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
-  &emsp;
-  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"/>
-</p>
-
-### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"></picture> DevOps & Tools
-
-<p align="center">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"/>
-  &emsp;
-  <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-%232496ED.svg?style=plastic&logo=docker&logoColor=white"/>
-  &emsp;
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
-  &emsp;
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
-  &emsp;
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-### Concepts & Methodologies
-
-<p align="center">
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-%230078D4.svg?style=plastic&logoColor=white"/>
-  &emsp;
-  <img alt="SOLID" src="https://img.shields.io/badge/SOLID-%23FF6B35.svg?style=plastic&logoColor=white"/>
-  &emsp;
-  <img alt="Design Patterns" src="https://img.shields.io/badge/Design%20Patterns-%238B5CF6.svg?style=plastic&logoColor=white"/>
-  &emsp;
-  <img alt="REST APIs" src="https://img.shields.io/badge/RESTful%20APIs-%2300C7B7.svg?style=plastic&logoColor=white"/>
-  &emsp;
-  <img alt="Agile" src="https://img.shields.io/badge/Agile%20%26%20Scrum-%2361DAFB.svg?style=plastic&logoColor=black"/>
-</p>
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" alt="Skills gif">
+        </td>
+        <td>
+          <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="52" alt="HTML5 logo" />
+          <img src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/200.webp" width="52" alt="CSS3 logo" />
+          <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript logo" />
+          <img src="https://i.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="45" alt="Angular logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" alt="TypeScript logo" />
+          <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" width="50" alt="Boostrap logo" />
+          <img src="https://i.giphy.com/media/JqDcpPX8vWahUny0pE/200.webp" width="72" alt="PHP logo" />
+          <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" width="50" alt="Symfony logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL logo" />
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+          <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30" alt="Tools gif">
+        </td>
+        <td>
+          <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="50" alt="Visual Studio logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git logo" />
+          <img src="https://img.icons8.com/fluent/48/000000/github.png" width="55" alt="Github logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" alt="Postman logo" />
+          <img src="https://img.icons8.com/color/48/000000/console.png" width="53" alt="Console logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="52" alt="Bash logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="52" alt="Apache2 logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="52" alt="MariaDB logo" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="52" alt="Android Studio logo" />
+        </td>
+    </tr>
+</table>>
 
 ---
 
