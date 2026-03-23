@@ -23,7 +23,7 @@
 - 🎓 **CS Student** at [Capital University (Helwan)](https://helwan.edu.eg/) — Class of 2028, GPA: 3.1/4
 - 💼 **Junior Full Stack Developer** — React.js · NestJS · TypeScript
 - 🏛️ **DEPI Trainee** — React Web Development Track (159 hrs)
-- 🏛️ **ITI Alumnus** — Web Development with .NET (120 hrs)
+- 🏛️ **ITI ** — Web Development with .NET (120 hrs)
 - 🐳 Building containerized apps with **Docker & Docker Compose**
 - 🔗 Passionate about **RESTful APIs**, **Design Patterns**, and clean architecture
 - 🌱 Currently mastering **NestJS**, **TypeORM**, and **advanced React patterns**
@@ -175,11 +175,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <!--- stats & Trophy (start) -->
-<p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoaazHF&show_icons=true&locale=en&layout=compact" alt="MoaazHF" /></p>
+<div align="center">
+	<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoaazHF&show_icons=true&locale=en&layout=compact" alt="MoaazHF" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MoaazHF&show_icons=true&locale=en" alt="MoaazHF" width="410" /></p>
+
+</div>
 
 <hr>
 ---
