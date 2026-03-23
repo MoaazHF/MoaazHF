@@ -1,247 +1,254 @@
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+<h1 align="center">Hi, I'm Moaaz Hassan Farouk <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2336BCF7&size=22&center=true&vCenter=true&width=650&height=100&lines=Junior+Full+Stack+Developer;React.js+%7C+NestJS+%7C+TypeScript;Building+Scalable+Web+Applications;DEPI+%7C+ITI+Trainee;Always+Learning+New+Things+%F0%9F%9A%80" />
+  </a>
 </p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MoaazHF&label=Profile%20views&color=0047AB&style=plastic" alt="MoaazHF" height=25px width=160px/>
 </p>
 
-<div align="center">
+---
 
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
+</picture>
 
-<details>
-<summary>Open profile</summary>
+<br><br>
+
+- 🎓 **CS Student** at [Capital University (Helwan)](https://helwan.edu.eg/) — Class of 2028, GPA: 3.1/4
+- 💼 **Junior Full Stack Developer** — React.js · NestJS · TypeScript
+- 🏛️ **DEPI Trainee** — React Web Development Track (159 hrs)
+- 🏛️ **ITI Alumnus** — Web Development with .NET (120 hrs)
+- 🐳 Building containerized apps with **Docker & Docker Compose**
+- 🔗 Passionate about **RESTful APIs**, **Design Patterns**, and clean architecture
+- 🌱 Currently mastering **NestJS**, **TypeORM**, and **advanced React patterns**
+- 📫 Reach me at **MoazHasanFarouk@gmail.com**
 
 <br>
-<div>
-  <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
-  </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
-  </div>
-</div>
 
-<details>
-<summary>About me</summary>
+---
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect With Me
 
-<div align="left">
+<p align="center">
+  <a href="mailto:MoazHasanFarouk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &emsp;
+  <a href="https://github.com/MoaazHF">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &emsp;
+  <a href="https://linkedin.com/in/moazhasan">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &emsp;
+  <a href="https://wa.me/201200063681">
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
-```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} Kartik.
- */
-```
+---
 
-</div>
+## 🛠️ Technical Skills
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="50px"></picture> Languages
+
+<p align="center">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
+  &emsp;
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white"/>
+  &emsp;
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white"/>
+  &emsp;
+  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white"/>
+  &emsp;
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white"/>
+</p>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="50px"></picture> Frontend
+
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black"/>
+  &emsp;
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white"/>
+  &emsp;
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=plastic&logo=tailwindcss&logoColor=white"/>
+  &emsp;
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white"/>
+  &emsp;
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
+  &emsp;
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
+</p>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50px"></picture> Backend & Databases
+
+<p align="center">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white"/>
+  &emsp;
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white"/>
+  &emsp;
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-%23000000.svg?style=plastic&logo=express&logoColor=white"/>
+  &emsp;
+  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white"/>
+  &emsp;
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=plastic&logo=postgresql&logoColor=white"/>
+  &emsp;
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white"/>
+  &emsp;
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white"/>
+</p>
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="50px"></picture> DevOps & Tools
+
+<p align="center">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white"/>
+  &emsp;
+  <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-%232496ED.svg?style=plastic&logo=docker&logoColor=white"/>
+  &emsp;
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
+  &emsp;
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"/>
+  &emsp;
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+### Concepts & Methodologies
+
+<p align="center">
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-%230078D4.svg?style=plastic&logoColor=white"/>
+  &emsp;
+  <img alt="SOLID" src="https://img.shields.io/badge/SOLID-%23FF6B35.svg?style=plastic&logoColor=white"/>
+  &emsp;
+  <img alt="Design Patterns" src="https://img.shields.io/badge/Design%20Patterns-%238B5CF6.svg?style=plastic&logoColor=white"/>
+  &emsp;
+  <img alt="REST APIs" src="https://img.shields.io/badge/RESTful%20APIs-%2300C7B7.svg?style=plastic&logoColor=white"/>
+  &emsp;
+  <img alt="Agile" src="https://img.shields.io/badge/Agile%20%26%20Scrum-%2361DAFB.svg?style=plastic&logoColor=black"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<details open>
+<summary><h3>📋 Task Management System — Feb 2026</h3></summary>
+
+> A full-stack Todo application for managing daily tasks efficiently.
+
+| Layer | Tech |
+|---|---|
+| Backend | NestJS · Node.js · TypeScript · TypeORM |
+| Frontend | React.js · Ionic Framework · Framer Motion |
+| DevOps | Docker · Docker Compose (Multi-stage builds) |
+
+</details>
+
+<details open>
+<summary><h3>🚚 Wassalha — Logistics Platform — Dec 2025 – Jan 2026</h3></summary>
+
+> A door-to-door delivery application designed for personal shipping with system analysis & DFD.
+
+| Layer | Tech |
+|---|---|
+| Frontend | React.js · Framer Motion · TailwindCSS |
+| Concept | System Analysis · Data Flow Diagrams (DFD) |
+
+</details>
+
+<details open>
+<summary><h3>🛍️ Boof Perfume — E-commerce Platform — Aug 2025 – Sep 2025</h3></summary>
+
+> A full-stack e-commerce experience crafted for the luxury perfume market.
+
+| Layer | Tech |
+|---|---|
+| Backend | Node.js · Express · PostgreSQL |
+| Frontend | React.js · GSAP · Lenis · Framer Motion · TailwindCSS |
 
 </details>
 
 <details>
-<summary>Tools</summary>
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd>
-      <kbd>Programming Languages</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" title="C++" /> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" title="Javascript"/> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py" title="Python"/> 
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>
-    </kbd>
-    <kbd>
-      <kbd>Back-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" title="Node.js"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" title="Express Server"/>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="django" title="Django"/>
-      <img width="30px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="Websocket"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" title="Chai"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/>
-    </kbd>
-     <kbd>
-      <kbd>Mobile</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" alt="swift" title="SwiftUI"/>
-    </kbd>
-    <kbd>
-      <kbd>Front-end</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" title="HTML"/> 
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" title="CSS"/>  
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" title="Reactjs"/>
-    </kbd>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="Postgres SQL"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="Mongo DB"/>
-      <img width="30px" src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="memcached" title="Memcached"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" title="Redis"/>
-      <img width="30px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" title="RabbitMQ"/>
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-      <kbd>Automation, Data Science & AI</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ab742751-b55b-43d7-8f49-9a67e293f67c" alt="Puppeteer" title="Puppeteer"/>
-      <img width="30" src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" title="Playwright"/>
-      <img width="30" src="https://logodix.com/logo/2116220.jpg" alt="appium" title="Appium"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" title="Numpy"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas"/>
-      <img width="30px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="chatgpt" title="Chat GPT"/>
-      <img width="30px" src="https://seeklogo.com/images/S/stability-ai-logo-39727290FE-seeklogo.com.png" alt="stablediffusion" title="Stable Diffusion"/>
-    </kbd>
-    <kbd>
-      <kbd>Operating System, Networking & Deployment</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" title="Android"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="iOS" title="iOS"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
-	    <img width="30" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" alt="macOS" title="macOS"/>
-	    <img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="git" title="git" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" title="Docker"/>
-      <img width="30px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="githubactions" title="Github Actions"/>
-    </kbd>
-    <kbd>
-      <kbd>Terminal Scripts</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" title="bash"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" title="Vim"/>
-    </kbd>
-    <kbd>
-      <kbd>Tools</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png" alt="Xcode" title="Xcode"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="VSCode" title="VS Code"/>
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"  alt="sublime" title="Sublime"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"  alt="jupiter" title="Jupiter"/>
-  </kbd>
-     <kbd>
-      <kbd>Game Development</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" title="Unity Engine"/>
-    </kbd>
-  </p>
-</div>
+<summary><h3>📦 Hisab — Inventory Management System — May 2025 – Jun 2025</h3></summary>
+
+> Full-stack collaborative system to track products, manage stock, and streamline operations.
+
+| Layer | Tech |
+|---|---|
+| Backend | Node.js · PostgreSQL |
+| Frontend | React.js |
+| Testing | Functional testing on CRUD operations & API endpoints |
+
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
-  <br>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=10kartik&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-  </p>
-</details>
+<summary><h3>👔 HR System Manager — Jul 2025 – Aug 2025</h3></summary>
 
-<details>
-  <summary>Open Source Contributions</summary>
-  <br>
-  <ul>
-    <li><strong>MDN Docs - Official JavaScript Docs:</strong> Contributed to improving and maintaining the official JavaScript documentation on MDN Web Docs.</li>
-    <li><strong>Pinterest - Pymemcache:</strong> Made contributions to the Pymemcache project on Pinterest, an efficient Python client for the memcached caching system.</li>
-    <li><strong>The Algorithms - JavaScript and C++:</strong> Contributed to The Algorithms repository, particularly in JavaScript and C++ implementations of various algorithms and data structures.</li>
-   <li><strong>True Sparrow - NftorNot.com, WhisperChain.xyz, AI SalesSparrow:</strong> Led the development of projects from inception to production under True Sparrow.</li>
-  </ul>
-</details>
+> Employee records, attendance, and payroll management system.
 
-<details>
-  <summary>Quote</summary>
-  <br>
-  <blockquote>
-    “A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are.”
-    <br><strong>Mr. Robot - Elliot Alderson</strong>
-  </blockquote>
-</details>
-
-<details>
-  <summary>Free DOSE hit</summary>
-  <br>
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
-  <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
-</details>
-
-<details>
-<summary>What can I do for you?</summary>
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-[//]: # (Fighting against markdown and blocks isn't easy, indentation is catastrophic)
-
-## Let's Work on Your Project Together!
-
-If you have any questions about web development, writing mistake-free documentation or AI, feel free to <a href="mailto:kkapgate5@gmail.com">contact me by email</a>, I won't bite, I promise.
-
-  </td>
-  <td width="50%" valign="top">
-
-## It's not perfect, isn't it?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
-<blockquote>“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
-<br><strong>– Elon Musk</strong></blockquote>
-
-  </td>
-  </tr>
-</table>
-</details>
+| Layer | Tech |
+|---|---|
+| Stack | C# · SQL Server · ASP.NET MVC |
 
 </details>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+---
 
-</div>
+## 🎓 Experience & Training
 
-<div align=center>
- <a href="https://www.linkedin.com/in/kartikkapgate/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="mailto:kkapagte5@gmail.com?subject=Hi%20Kartik%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-<a href="https://leetcode.com/kk10-/" target="_blank"><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="LeetCode" /></a>
-<a href="https://www.hackerrank.com/profile/kartik_kapgate" target="_blank"><img width="100px" src="https://user-images.githubusercontent.com/1194257/65596422-1cef2080-df97-11e9-9abb-a225204d1805.png" alt="HackerRank" /></a>
-<a href="https://steamcommunity.com/id/kk10-/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" /></a>
-</div>
+| Period | Organization | Track |
+|---|---|---|
+| Nov 2025 – Present | **DEPI** | React Web Development (159 hrs) |
+| Jul 2025 – Aug 2025 | **ITI** | Web Development with .NET (120 hrs) |
+| 2024 – 2028 | **Capital University** | B.Sc. Computer Science — GPA 3.1/4 |
 
-------
-Credit: [10Kartik](https://github.com/10Kartik)
+---
 
-Last Edited on: 18/01/2024
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></picture> GitHub Stats
+
+<details><summary><h3>🔥 Streak Stats</h3></summary>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoaazHF&theme=tokyonight_duo" alt="MoaazHF"/>
+</p>
+
+</details>
+
+<details><summary><h3>💻 Profile Stats</h3></summary>
+
+<p align="center">
+  <img alt="Moaaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MoaazHF&show_icons=true&count_private=true&theme=tokyonight&layout=compact" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoaazHF&langs_count=8&show_icons=true&theme=tokyonight" alt="MoaazHF" height="230px"/>
+</p>
+
+</details>
+
+<details><summary><h3>🏆 Trophies</h3></summary>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MoaazHF&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="MoaazHF"/>
+</p>
+
+</details>
+
+---
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+  </a>
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://github.com/MoaazHF/MoaazHF/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+</p>
