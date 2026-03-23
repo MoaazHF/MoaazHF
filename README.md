@@ -175,29 +175,13 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <!--- stats & Trophy (start) -->
-```markdown
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MoaazHF&theme=tokyonight&show_icons=true&count_private=true&hide_border=false" />
-  <br></br>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Moaaz streak" src="https://streak-stats.demolab.com?user=MoaazHF&theme=tokyonight&hide_border=false" />
-</td>
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaazHF&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10&layout=compact&hide=html,css"/>
-</td>
-</tr>
-</table>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MoaazHF&layout=compact&theme=tokyonight&column=7&row=1&margin-w=15&margin-h=15" alt="MoaazHF"/>
-  </a>
-</p>
-</p>
-```
-<!--- stats (end) -->
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoaazHF&show_icons=true&locale=en&layout=compact" alt="MoaazHF" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MoaazHF&show_icons=true&locale=en" alt="MoaazHF" width="410" /></p>
+
+<hr>
 ---
 
 ## 🐍 Snake Eating My Contributions
