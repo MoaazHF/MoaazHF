@@ -133,4 +133,102 @@ flowchart LR
   UI --> TW
   UI --> BS
   Backend --> Database
-Featured Projects<details open><summary><h3>📋 Task Management System — Feb 2026</h3></summary>A full-stack Todo application for managing daily tasks efficiently.LayerTechBackendNestJS · Node.js · TypeScript · TypeORMFrontendReact.js · Ionic Framework · Framer MotionDevOpsDocker · Docker Compose (Multi-stage builds)</details><details open><summary><h3>🚚 Wassalha — Logistics Platform — Dec 2025 – Jan 2026</h3></summary>A door-to-door delivery application designed for personal shipping with system analysis & DFD.LayerTechFrontendReact.js · Framer Motion · TailwindCSSConceptSystem Analysis · Data Flow Diagrams (DFD)</details><details open><summary><h3>🛍️ Boof Perfume — E-commerce Platform — Aug 2025 – Sep 2025</h3></summary>A full-stack e-commerce experience crafted for the luxury perfume market.LayerTechBackendNode.js · Express · PostgreSQLFrontendReact.js · GSAP · Lenis · Framer Motion · TailwindCSS</details><details><summary><h3>📦 Hisab — Inventory Management System — May 2025 – Jun 2025</h3></summary>Full-stack collaborative system to track products, manage stock, and streamline operations.LayerTechBackendNode.js · PostgreSQLFrontendReact.jsTestingFunctional testing on CRUD operations & API endpoints</details><details><summary><h3>👔 HR System Manager — Jul 2025 – Aug 2025</h3></summary>Employee records, attendance, and payroll management system.LayerTechStackC# · SQL Server · ASP.NET MVC</details>🎓 Experience & TrainingPeriodOrganizationTrackNov 2025 – PresentDEPIReact Web Development (159 hrs)Jul 2025 – Aug 2025ITIWeb Development with .NET (120 hrs)2024 – 2028Capital UniversityB.Sc. Computer Science — GPA 3.1/4<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b><div align="center"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MoaazHF&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="MoaazHF GitHub Stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=MoaazHF&theme=radical&hide_border=true" alt="MoaazHF GitHub Streak" /></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaazHF&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="MoaazHF Top Languages" /></p></div><hr>🐍 Snake Eating My Contributions<p align="center"><img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MoaazHF/MoaazHF/output/github-contribution-grid-snake.svg" alt="Snake Game"/></p>
+```
+
+---
+
+##  Featured Projects
+
+<details open>
+<summary><h3>📋 Task Management System — Feb 2026</h3></summary>
+
+> A full-stack Todo application for managing daily tasks efficiently.
+
+| Layer | Tech |
+|---|---|
+| Backend | NestJS · Node.js · TypeScript · TypeORM |
+| Frontend | React.js · Ionic Framework · Framer Motion |
+| DevOps | Docker · Docker Compose (Multi-stage builds) |
+
+</details>
+
+<details open>
+<summary><h3>🚚 Wassalha — Logistics Platform — Dec 2025 – Jan 2026</h3></summary>
+
+> A door-to-door delivery application designed for personal shipping with system analysis & DFD.
+
+| Layer | Tech |
+|---|---|
+| Frontend | React.js · Framer Motion · TailwindCSS |
+| Concept | System Analysis · Data Flow Diagrams (DFD) |
+
+</details>
+
+<details open>
+<summary><h3>🛍️ Boof Perfume — E-commerce Platform — Aug 2025 – Sep 2025</h3></summary>
+
+> A full-stack e-commerce experience crafted for the luxury perfume market.
+
+| Layer | Tech |
+|---|---|
+| Backend | Node.js · Express · PostgreSQL |
+| Frontend | React.js · GSAP · Lenis · Framer Motion · TailwindCSS |
+
+</details>
+
+<details>
+<summary><h3>📦 Hisab — Inventory Management System — May 2025 – Jun 2025</h3></summary>
+
+> Full-stack collaborative system to track products, manage stock, and streamline operations.
+
+| Layer | Tech |
+|---|---|
+| Backend | Node.js · PostgreSQL |
+| Frontend | React.js |
+| Testing | Functional testing on CRUD operations & API endpoints |
+
+</details>
+
+<details>
+<summary><h3>👔 HR System Manager — Jul 2025 – Aug 2025</h3></summary>
+
+> Employee records, attendance, and payroll management system.
+
+| Layer | Tech |
+|---|---|
+| Stack | C# · SQL Server · ASP.NET MVC |
+
+</details>
+
+---
+
+## 🎓 Experience & Training
+
+| Period | Organization | Track |
+|---|---|---|
+| Nov 2025 – Present | **DEPI** | React Web Development (159 hrs) |
+| Jul 2025 – Aug 2025 | **ITI** | Web Development with .NET (120 hrs) |
+| 2024 – 2028 | **Capital University** | B.Sc. Computer Science — GPA 3.1/4 |
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoaazHF&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="MoaazHF GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoaazHF&theme=radical&hide_border=true" alt="MoaazHF GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaazHF&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="MoaazHF Top Languages" />
+</p>
+</div>
+
+<hr>
+
+## 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MoaazHF/MoaazHF/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+</p>
