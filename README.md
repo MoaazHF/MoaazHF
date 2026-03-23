@@ -176,9 +176,22 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <!--- stats & Trophy (start) -->
 <div align="center">
-		<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoaazHF&show_icons=true&locale=en&layout=compact" alt="MoaazHF" />
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=MoaazHF&show_icons=true&locale=en" alt="MoaazHF" width="410" />
+<h3 align="center">
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="GitHub-Status"/>
+  GitHub Stats
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30" alt="GitHub-Status"/>
+</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoaazHF&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="MoaazHF GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoaazHF&theme=radical&hide_border=true" alt="MoaazHF GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaazHF&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="MoaazHF Top Languages" />
+</p>
+
+<hr>
 </div>
 
 <hr>
