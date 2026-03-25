@@ -90,9 +90,7 @@
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
           <img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="40" alt="GitHub" title="GitHub" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" title="VS Code" />
           <img src="https://img.icons8.com/color/48/000000/xampp.png" width="40" alt="XAMPP" title="XAMPP" />
-		  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" alt="Chrome DevTools" title="Chrome DevTools" />
         </td>
     </tr>
 </table>
