@@ -104,22 +104,16 @@ mindmap
     ⚙️ Backend
       NestJS · Node.js
       GraphQL · REST
-      JWT · Firebase
-      PHP · ASP.NET
     🗄️ Data & Messaging
       PostgreSQL · MySQL
       Redis · RabbitMQ
       TypeORM · BullMQ
     🐳 DevOps & Cloud
       Docker · Compose
-      AWS S3 · Sentry
-      OpenTelemetry
     🧪 Testing & Tools
       Jest · Supertest
-      Git · GitHub
     🌱 Learning
       Flutter · Dart
-      Riverpod · Bloc
 ```
 
 ---
