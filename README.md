@@ -1,4 +1,4 @@
-<svg width="100%" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+<!-- <svg width="100%" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#ff6b9d"/>
@@ -19,7 +19,7 @@
     font-family="'Comic Sans MS', cursive"
     font-size="22"
     fill="#a855f7">I do open source :)</text>
-</svg
+</svg -->
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
