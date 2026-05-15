@@ -1,4 +1,25 @@
-<h1 align="center">Hello , Moaaz Is Here<img </h1>
+<svg width="100%" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff6b9d"/>
+      <stop offset="100%" style="stop-color:#a855f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="120" fill="#0d1117"/>
+  <text
+    x="400" y="65"
+    text-anchor="middle"
+    font-family="'Comic Sans MS', cursive"
+    font-size="52"
+    font-weight="bold"
+    fill="url(#grad1)">Hello! I'm Moaaz</text>
+  <text
+    x="400" y="100"
+    text-anchor="middle"
+    font-family="'Comic Sans MS', cursive"
+    font-size="22"
+    fill="#a855f7">I do open source :)</text>
+</svg
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
