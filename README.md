@@ -1,217 +1,164 @@
-<!-- <svg width="100%" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff6b9d"/>
-      <stop offset="100%" style="stop-color:#a855f7"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="120" fill="#0d1117"/>
-  <text
-    x="400" y="65"
-    text-anchor="middle"
-    font-family="'Comic Sans MS', cursive"
-    font-size="52"
-    font-weight="bold"
-    fill="url(#grad1)">Hello! I'm Moaaz</text>
-  <text
-    x="400" y="100"
-    text-anchor="middle"
-    font-family="'Comic Sans MS', cursive"
-    font-size="22"
-    fill="#a855f7">I do open source :)</text>
-</svg -->
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFFF00&size=22&center=true&vCenter=true&width=650&height=100&lines=Junior+Full+Stack+Developer;React.js+%7C+NestJS+%7C+TypeScript;Building+Scalable+Web+Applications;DEPI+%7C+ITI+Trainee;Always+Learning+New+Things+%F0%9F%9A%80" />  </a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Hello!%20I'm%20Moaaz&fontSize=55&fontColor=fff&animation=fadeIn&desc=Junior%20Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=20&descAlignY=78)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoaazHF&label=Profile%20views&color=0047AB&style=plastic" alt="MoaazHF" height=25px width=160px/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=a855f7&size=22&center=true&vCenter=true&width=650&height=80&lines=Junior+Full+Stack+Developer;React+%7C+NestJS+%7C+TypeScript+%7C+GraphQL;PostgreSQL+%7C+Redis+%7C+RabbitMQ+%7C+Docker;Building+Scalable+%26+Production-Ready+Systems+%F0%9F%9A%80)](https://github.com/DenverCoder1/readme-typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=MoaazHF&label=Profile%20views&color=7c3aed&style=flat)](https://github.com/MoaazHF)
+
+</div>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
+## About Me
 
-<picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
-</picture>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="230" alt="coding gif"/>
 
-<br><br>
-
-- 🎓 **CS Student** at [Capital University (Helwan)](https://helwan.edu.eg/) — Class of 2028, GPA: 3.1/4
-- 💼 **Junior Full Stack Developer** — React.js · NestJS · TypeScript
+- 🎓 **CS Student** at [Capital University (Helwan)](https://helwan.edu.eg/) — Class of 2028, GPA 3.1/4
+- 💼 **Junior Full Stack Developer** (Contractor) at **RobinFood** — Saudi food delivery platform
+- ⚙️ Working with **NestJS · GraphQL · TypeORM · PostgreSQL · RabbitMQ · Redis**
 - 🏛️ **DEPI Trainee** — React Web Development Track (159 hrs)
 - 🏛️ **ITI Trainee** — Web Development with .NET (120 hrs)
-- 🐳 Building containerized apps with **Docker & Docker Compose**
-- 🔗 Passionate about **RESTful APIs**, **Design Patterns**, and clean architecture
-- 🌱 Currently mastering **NestJS**, **TypeORM**, and **advanced React patterns**
-- 📫 Reach me at **MoazHasanFarouk@gmail.com**
+- 🐳 Building containerized production apps with **Docker & Docker Compose**
+- 🔗 Passionate about **clean architecture**, **design patterns**, and **scalable APIs**
+- 🌱 Currently exploring **Flutter**, **OpenTelemetry**, and **BullMQ**
+- 📫 **MoazHasanFarouk@gmail.com**
 
-<br>
+<br clear="right"/>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"></picture> Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:MoazHasanFarouk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &emsp;
+  &nbsp;
   <a href="https://github.com/MoaazHF">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &emsp;
+  &nbsp;
   <a href="https://linkedin.com/in/moazhasan">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &emsp;
+  &nbsp;
   <a href="https://wa.me/201200063681">
-    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-##  Technical Skills
+## Technical Skills
 
-<table align="center">
-    <tr>
-        <td align="center" valign="middle" width="50">
-          <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35" alt="Frontend & Languages gif">
-        </td>
-        <td valign="middle">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" title="Java" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" title="C#" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" title="PHP" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.js" title="React.js" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" title="Next.js" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="TailwindCSS" title="TailwindCSS" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" title="Bootstrap" />
-        </td>
-    </tr>
-    <tr>
-        <td align="center" valign="middle" width="50">
-          <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35" alt="Backend, DB & Tools gif">
-        </td>
-        <td valign="middle">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" alt="NestJS" title="NestJS" />
-          <img src="https://api.iconify.design/simple-icons:express.svg?color=white" width="40" alt="Express.js" title="Express.js" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt="ASP.NET" title="ASP.NET" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" title="MySQL" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server" title="SQL Server" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" title="Docker" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" title="Git" />
-          <img src="https://api.iconify.design/simple-icons:github.svg?color=white" width="40" alt="GitHub" title="GitHub" />
-          <img src="https://img.icons8.com/color/48/000000/xampp.png" width="40" alt="XAMPP" title="XAMPP" />
-        </td>
-    </tr>
-</table>
+**Frontend**
 
-```mermaid
-flowchart LR
-  subgraph Frontend
-    TS[TypeScript]
-    JS[JavaScript]
-    UI[HTML / CSS]
-  end
-  
-  subgraph Frameworks
-    React((React.js))
-    Next((Next.js))
-    TW((TailwindCSS))
-    BS((Bootstrap))
-  end
-  
-  subgraph Backend
-    Node{Node.js}
-    Nest{NestJS}
-    ASP{ASP.NET}
-    PHP{PHP}
-  end
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-  subgraph Database
-    PG[(PostgreSQL)]
-    SQL[(SQL Server)]
-    MY[(MySQL)]
-  end
+**Backend**
 
-  TS --> React
-  TS --> Nest
-  JS --> React
-  JS --> Node
-  React --> Next
-  UI --> TW
-  UI --> BS
-  Backend --> Database
-```
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Database & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 ---
 
-##  Featured Projects
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoaazHF&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaazHF&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MoaazHF&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## Featured Projects
 
 <details open>
 <summary><h3>📋 Task Management System — Feb 2026</h3></summary>
 
-> A full-stack Todo application for managing daily tasks efficiently.
+> Full-stack Todo app with containerized multi-stage deployment.
 
 | Layer | Tech |
 |---|---|
-| Backend | NestJS · Node.js · TypeScript · TypeORM |
-| Frontend | React.js · Ionic Framework · Framer Motion |
-| DevOps | Docker · Docker Compose (Multi-stage builds) |
+| Backend | NestJS · TypeScript · TypeORM · PostgreSQL |
+| Frontend | React.js · Ionic Framework |
+| DevOps | Docker · Docker Compose (multi-stage builds) |
 
 </details>
 
 <details open>
 <summary><h3>🚚 Wassalha — Logistics Platform — Dec 2025 – Jan 2026</h3></summary>
 
-> A door-to-door delivery application designed for personal shipping with system analysis & DFD.
+> Door-to-door personal shipping app with full system analysis.
 
 | Layer | Tech |
 |---|---|
-| Frontend | React.js · Framer Motion · TailwindCSS |
+| Frontend | React.js · TailwindCSS · GSAP |
 | Concept | System Analysis · Data Flow Diagrams (DFD) |
 
 </details>
 
 <details open>
-<summary><h3>🛍️ Boof Perfume — E-commerce Platform — Aug 2025 – Sep 2025</h3></summary>
+<summary><h3>🛍️ Boof Perfume — E-commerce Platform — Aug–Sep 2025</h3></summary>
 
-> A full-stack e-commerce experience crafted for the luxury perfume market.
+> Full-stack luxury perfume e-commerce with smooth UI animations.
 
 | Layer | Tech |
 |---|---|
 | Backend | Node.js · Express · PostgreSQL |
-| Frontend | React.js · GSAP · Lenis · Framer Motion · TailwindCSS |
+| Frontend | React.js · GSAP · Lenis · TailwindCSS |
 
 </details>
 
 <details>
-<summary><h3>📦 Hisab — Inventory Management System — May 2025 – Jun 2025</h3></summary>
+<summary><h3>📦 Hisab — Inventory Management — May–Jun 2025</h3></summary>
 
-> Full-stack collaborative system to track products, manage stock, and streamline operations.
+> Collaborative stock tracking and operations management system.
 
 | Layer | Tech |
 |---|---|
-| Backend | Node.js · PostgreSQL |
-| Frontend | React.js |
-| Testing | Functional testing on CRUD operations & API endpoints |
+| Stack | Node.js · PostgreSQL · React.js |
+| Testing | CRUD + API endpoint functional testing |
 
 </details>
 
 <details>
-<summary><h3>👔 HR System Manager — Jul 2025 – Aug 2025</h3></summary>
+<summary><h3>👔 HR System Manager — Jul–Aug 2025</h3></summary>
 
-> Employee records, attendance, and payroll management system.
+> Employee records, attendance, and payroll management.
 
 | Layer | Tech |
 |---|---|
@@ -221,16 +168,15 @@ flowchart LR
 
 ---
 
-## 🎓 Experience & Training
+## Experience & Training
 
-| Period | Organization | Track |
+| Period | Organization | Role / Track |
 |---|---|---|
-| Nov 2025 – Present | **DEPI** | React Web Development (159 hrs) |
-| Jul 2025 – Aug 2025 | **ITI** | Web Development with .NET (120 hrs) |
+| Jan 2026 – Present | **RobinFood** | Junior Full Stack Developer (Contractor) |
+| Nov 2025 – Present | **DEPI** | React Web Development — 159 hrs |
+| Jul–Aug 2025 | **ITI** | Web Development with .NET — 120 hrs |
 | 2024 – 2028 | **Capital University** | B.Sc. Computer Science — GPA 3.1/4 |
 
 ---
 
-
-<hr>
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer)
