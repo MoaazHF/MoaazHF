@@ -215,18 +215,10 @@ flowchart LR
 <div align="center">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoaazHF&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="MoaazHF GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoaazHF&theme=radical&hide_border=true" alt="MoaazHF GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaazHF&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="MoaazHF Top Languages" />
-</p>
+
 </div>
 
 <hr>
 
-## 🐍 Snake Eating My Contributions
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
