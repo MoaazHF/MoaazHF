@@ -183,7 +183,6 @@ mindmap
 
 | Period | Organization | Role / Track |
 |---|---|---|
-| Jan 2026 – Present | **RobinFood** | Junior Full Stack Developer (Contractor) |
 | Nov 2025 – Present | **DEPI** | React Web Development — 159 hrs |
 | Jul–Aug 2025 | **ITI** | Web Development with .NET — 120 hrs |
 | 2024 – 2028 | **Capital University** | B.Sc. Computer Science — GPA 3.1/4 |
