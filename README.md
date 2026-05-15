@@ -97,7 +97,7 @@
 mindmap
   root((Moaaz))
     🎨 Frontend
-      React · Next.js
+      React
       TypeScript · JS
       Tailwind · HTML/CSS
       GSAP · Lenis
@@ -160,17 +160,6 @@ mindmap
 
 </details>
 
-<details open>
-<summary><h3>🛍️ Boof Perfume — E-commerce Platform — Aug–Sep 2025</h3></summary>
-
-> Full-stack luxury perfume e-commerce with smooth UI animations.
-
-| Layer | Tech |
-|---|---|
-| Backend | Node.js · Express · PostgreSQL |
-| Frontend | React.js · GSAP · Lenis · TailwindCSS |
-
-</details>
 
 <details>
 <summary><h3>📦 Hisab — Inventory Management — May–Jun 2025</h3></summary>
