@@ -16,7 +16,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
 
 - 🎓 **CS Student** at [Capital University (Helwan)](https://helwan.edu.eg/) — Class of 2028, GPA 3.1/4
-- 💼 **Junior Full Stack Developer** (Contractor) at **RobinFood** — Saudi food delivery platform
+- 💼 **Junior Full Stack Developer** at **RobinFood** — Saudi food delivery platform
 - ⚙️ Daily stack: **NestJS · GraphQL · TypeORM · PostgreSQL · RabbitMQ · Redis**
 - 🏛️ **DEPI Trainee** — React Web Development Track (159 hrs)
 - 🏛️ **ITI Trainee** — Web Development with .NET (120 hrs)
