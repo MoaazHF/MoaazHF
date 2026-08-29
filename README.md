@@ -11,6 +11,9 @@
 
 ---
 
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8320313d-d805-46b6-ad97-8f061eded393" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 🙋 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
