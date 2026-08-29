@@ -12,7 +12,10 @@
 ---
 
 
-[![Credential Badge](https://images.credly.com/size/340x340/images/8320313d-d805-46b6-ad97-8f061eded393/image.png)](https://www.credly.com/badges/8320313d-d805-46b6-ad97-8f061eded393)## 🙋 About Me
+<a href="https://www.credly.com/badges/8320313d-d805-46b6-ad97-8f061eded393">
+  <img src="https://images.credly.com/size/340x340/images/8320313d-d805-46b6-ad97-8f061eded393/image.png" alt="Credential Badge" width="150"/>
+</a>
+## 🙋 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
 
