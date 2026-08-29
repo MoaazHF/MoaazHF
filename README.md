@@ -12,8 +12,7 @@
 ---
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8320313d-d805-46b6-ad97-8f061eded393" data-share-badge-host="https://www.credly.com"></div>
-## 🙋 About Me
+[![Credential Badge](https://images.credly.com/size/340x340/images/8320313d-d805-46b6-ad97-8f061eded393/image.png)](https://www.credly.com/badges/8320313d-d805-46b6-ad97-8f061eded393)## 🙋 About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
 
