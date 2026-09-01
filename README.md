@@ -149,7 +149,6 @@ mindmap
 
 </details>
 
-
 <details>
 <summary><h3>📦 Hisab — Inventory Management — May–Jun 2025</h3></summary>
 
