@@ -8,7 +8,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/MoaazHF?label=Followers&style=flat&color=7c3aed)](https://github.com/MoaazHF)
 
 </div>
-
 ---
 ## 🙋 About Me
 
