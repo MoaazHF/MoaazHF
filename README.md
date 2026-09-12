@@ -9,8 +9,6 @@
 
 </div>
 ---
-## 🙋 About Me
-
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif"/>
 
 - 🎓 **CS Student** at [Capital University (Helwan)](https://helwan.edu.eg/) — Class of 2028, GPA 3.1/4
