@@ -1,17 +1,13 @@
-```
-    ________  ____    __        ______________   ________ __
-   / ____/ / / / /   / /       / ___/_  __/   | / ____/ //_/
-  / /_  / / / / /   / /  ______\__ \ / / / /| |/ /   / ,<   
- / __/ / /_/ / /___/ /__/_____/__/ // / / ___ / /___/ /| |  
-/_/    \____/_____/_____/    /____//_/ /_/  |_\____/_/ |_|  
-```
-
-<h3 align="center">Moaaz Hassan Farouk</h3>
+<h1 align="center">Moaaz Hassan Farouk</h1>
 <p align="center">
 📍 Cairo, Egypt &nbsp;•&nbsp; 📧 moazhasanfarouk@gmail.com &nbsp;•&nbsp;
 <a href="https://github.com/MoaazHF">GitHub</a> &nbsp;•&nbsp;
 <a href="https://linkedin.com/in/moazhasan">LinkedIn</a>
 </p>
+
+<div align="center">
+  <img src="./assets/typing-banner.svg" alt="moaaz@dev:~$ whoami → Full-Stack Developer" width="640"/>
+</div>
 
 ---
 
