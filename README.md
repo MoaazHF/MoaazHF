@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="./assets/typing-bannr.svg" alt="moaaz@dev:~$ whoami → Full-Stack Developer" width="640"/>
+  <img src="./assets/typing-banner.svg" alt="moaaz@dev:~$ whoami → Full-Stack Developer" width="640"/>
 </div>
 
 ---
