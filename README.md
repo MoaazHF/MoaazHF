@@ -28,8 +28,6 @@ platform across ordering, logistics, payments, dashboards, and operational workf
 **Full-Stack Developer** — RobinFood (BAHJA AL-TAUM For IT LLC), Saudi Arabia
 `Mar 2026 – Present`
 
-Working on a Saudi food delivery platform. Not listing the day-to-day here — happy to talk through the specifics directly.
-
 ---
 
 ## 🧩 Projects
