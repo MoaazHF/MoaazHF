@@ -42,7 +42,6 @@ flowchart LR
 
     ME --> P2[Task Management System]
     P2 --> P2a["NestJS · TypeORM · PostgreSQL · Ionic React"]
-    P2 --> P2b["RobinFood technical interview → led to the contractor hire"]
 
     ME --> P3[Wassalha — P2P Logistics]
     P3 --> P3a["React · React Router · TailwindCSS"]
