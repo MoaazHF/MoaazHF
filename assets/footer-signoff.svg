@@ -1,0 +1,41 @@
+<svg width="880" height="150" viewBox="0 0 880 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="ftL1"><rect x="20" y="48" width="0" height="24">
+      <animate attributeName="width" from="0" to="220" dur="0.6s" begin="0.2s" fill="freeze"/>
+    </rect></clipPath>
+    <clipPath id="ftL2"><rect x="20" y="76" width="0" height="24">
+      <animate attributeName="width" from="0" to="500" dur="0.8s" begin="1s" fill="freeze"/>
+    </rect></clipPath>
+    <clipPath id="ftL3"><rect x="20" y="104" width="0" height="24">
+      <animate attributeName="width" from="0" to="110" dur="0.4s" begin="2s" fill="freeze"/>
+    </rect></clipPath>
+    <clipPath id="ftL4"><rect x="20" y="128" width="0" height="24">
+      <animate attributeName="width" from="0" to="560" dur="0.8s" begin="2.6s" fill="freeze"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="149" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="20" r="6" fill="#27c93f"/>
+  <text x="440" y="24" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="12" fill="#8b949e">moaaz@dev:~$</text>
+  <line x1="0" y1="36" x2="880" y2="36" stroke="#21262d" stroke-width="1"/>
+
+  <g clip-path="url(#ftL1)">
+    <text x="20" y="66" font-family="Menlo, Consolas, monospace" font-size="16" fill="#7ee787">$ echo $STATUS</text>
+  </g>
+  <g clip-path="url(#ftL2)">
+    <text x="20" y="94" font-family="Menlo, Consolas, monospace" font-size="16" font-weight="bold" fill="#ffffff">Open to backend &amp; full-stack opportunities</text>
+  </g>
+  <g clip-path="url(#ftL3)">
+    <text x="20" y="122" font-family="Menlo, Consolas, monospace" font-size="16" fill="#7ee787">$ locale</text>
+  </g>
+  <g clip-path="url(#ftL4)">
+    <text x="20" y="146" font-family="Menlo, Consolas, monospace" font-size="15">
+      <tspan fill="#d2a8ff">LANG=en_US</tspan><tspan fill="#6e7681" font-style="italic">  # professional reading, writing &amp; speaking</tspan>
+    </text>
+    <rect x="0" y="0" width="9" height="17" fill="#7ee787" transform="translate(465 130)">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" begin="3.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

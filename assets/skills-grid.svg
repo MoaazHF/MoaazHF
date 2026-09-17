@@ -1,0 +1,269 @@
+<svg width="880" height="538" viewBox="0 0 880 538" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="hclip0"><rect x="18" y="28" width="0" height="24"><animate attributeName="width" from="0" to="118" dur="0.5s" begin="0.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="hclip1"><rect x="18" y="100" width="0" height="24"><animate attributeName="width" from="0" to="109" dur="0.5s" begin="0.64s" fill="freeze"/></rect></clipPath>
+    <clipPath id="hclip2"><rect x="18" y="172" width="0" height="24"><animate attributeName="width" from="0" to="101" dur="0.5s" begin="1.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="hclip3"><rect x="18" y="244" width="0" height="24"><animate attributeName="width" from="0" to="162" dur="0.5s" begin="2.1s" fill="freeze"/></rect></clipPath>
+    <clipPath id="hclip4"><rect x="18" y="316" width="0" height="24"><animate attributeName="width" from="0" to="101" dur="0.5s" begin="2.74s" fill="freeze"/></rect></clipPath>
+    <clipPath id="hclip5"><rect x="18" y="388" width="0" height="24"><animate attributeName="width" from="0" to="118" dur="0.5s" begin="3.38s" fill="freeze"/></rect></clipPath>
+    <clipPath id="hclip6"><rect x="18" y="460" width="0" height="24"><animate attributeName="width" from="0" to="153" dur="0.5s" begin="4.02s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="879" height="538" rx="12" fill="#0d1117" stroke="#30363d" id="framebox"/>
+<circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+<circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+<circle cx="62" cy="20" r="6" fill="#27c93f"/>
+<text x="440.0" y="24" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="12" fill="#8b949e">moaaz@dev:~/skills$ ls -R</text>
+<line x1="0" y1="36" x2="880" y2="36" stroke="#21262d" stroke-width="1"/>
+  <rect x="18" y="32" width="6" height="14" rx="2" fill="#7ee787" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.0s" fill="freeze"/>
+  </rect>
+  <g clip-path="url(#hclip0)">
+    <text x="30" y="46" font-family="Menlo, Consolas, monospace" font-size="14" font-weight="bold" fill="#7ee787">./languages/</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.15s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="0.15s" fill="freeze"/>
+    <rect x="34" y="62" width="107" height="26" rx="13" fill="#161b22" stroke="#7ee787" stroke-opacity="0.85" stroke-width="1.4"/>
+    <text x="87" y="79" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">TypeScript</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.21s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="0.21s" fill="freeze"/>
+    <rect x="149" y="62" width="147" height="26" rx="13" fill="#161b22" stroke="#7ee787" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="222" y="79" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">JavaScript ES6+</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.27s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="0.27s" fill="freeze"/>
+    <rect x="304" y="62" width="50" height="26" rx="13" fill="#161b22" stroke="#7ee787" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="329" y="79" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">SQL</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.33s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="0.33s" fill="freeze"/>
+    <rect x="362" y="62" width="34" height="26" rx="13" fill="#161b22" stroke="#7ee787" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="379" y="79" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">C</text>
+  </g>
+  <rect x="18" y="104" width="6" height="14" rx="2" fill="#58a6ff" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.64s" fill="freeze"/>
+  </rect>
+  <g clip-path="url(#hclip1)">
+    <text x="30" y="118" font-family="Menlo, Consolas, monospace" font-size="14" font-weight="bold" fill="#58a6ff">./frontend/</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.79s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="0.79s" fill="freeze"/>
+    <rect x="34" y="134" width="90" height="26" rx="13" fill="#161b22" stroke="#58a6ff" stroke-opacity="0.85" stroke-width="1.4"/>
+    <text x="79" y="151" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">React.js</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.85s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="0.85s" fill="freeze"/>
+    <rect x="132" y="134" width="115" height="26" rx="13" fill="#161b22" stroke="#58a6ff" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="190" y="151" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Ionic React</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.91s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="0.91s" fill="freeze"/>
+    <rect x="255" y="134" width="115" height="26" rx="13" fill="#161b22" stroke="#58a6ff" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="312" y="151" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">TailwindCSS</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="0.97s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="0.97s" fill="freeze"/>
+    <rect x="378" y="134" width="107" height="26" rx="13" fill="#161b22" stroke="#58a6ff" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="431" y="151" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Ant Design</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.03s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="1.03s" fill="freeze"/>
+    <rect x="492" y="134" width="58" height="26" rx="13" fill="#161b22" stroke="#58a6ff" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="522" y="151" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Vite</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.09s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="1.09s" fill="freeze"/>
+    <rect x="559" y="134" width="131" height="26" rx="13" fill="#161b22" stroke="#58a6ff" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="624" y="151" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Framer Motion</text>
+  </g>
+  <rect x="18" y="176" width="6" height="14" rx="2" fill="#d2a8ff" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.4s" fill="freeze"/>
+  </rect>
+  <g clip-path="url(#hclip2)">
+    <text x="30" y="190" font-family="Menlo, Consolas, monospace" font-size="14" font-weight="bold" fill="#d2a8ff">./backend/</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.55s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="1.55s" fill="freeze"/>
+    <rect x="34" y="206" width="82" height="26" rx="13" fill="#161b22" stroke="#d2a8ff" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="75" y="223" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Node.js</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.61s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="1.61s" fill="freeze"/>
+    <rect x="124" y="206" width="74" height="26" rx="13" fill="#161b22" stroke="#d2a8ff" stroke-opacity="0.85" stroke-width="1.4"/>
+    <text x="162" y="223" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">NestJS</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.67s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="1.67s" fill="freeze"/>
+    <rect x="207" y="206" width="107" height="26" rx="13" fill="#161b22" stroke="#d2a8ff" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="260" y="223" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Express.js</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.73s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="1.73s" fill="freeze"/>
+    <rect x="321" y="206" width="139" height="26" rx="13" fill="#161b22" stroke="#d2a8ff" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="391" y="223" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">REST &amp; GraphQL</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="1.79s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="1.79s" fill="freeze"/>
+    <rect x="468" y="206" width="82" height="26" rx="13" fill="#161b22" stroke="#d2a8ff" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="509" y="223" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">TypeORM</text>
+  </g>
+  <rect x="18" y="248" width="6" height="14" rx="2" fill="#ffa657" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.1s" fill="freeze"/>
+  </rect>
+  <g clip-path="url(#hclip3)">
+    <text x="30" y="262" font-family="Menlo, Consolas, monospace" font-size="14" font-weight="bold" fill="#ffa657">./data-messaging/</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.25s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="2.25s" fill="freeze"/>
+    <rect x="34" y="278" width="107" height="26" rx="13" fill="#161b22" stroke="#ffa657" stroke-opacity="0.85" stroke-width="1.4"/>
+    <text x="87" y="295" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">PostgreSQL</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.31s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="2.31s" fill="freeze"/>
+    <rect x="149" y="278" width="66" height="26" rx="13" fill="#161b22" stroke="#ffa657" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="182" y="295" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Redis</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.37s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="2.37s" fill="freeze"/>
+    <rect x="223" y="278" width="90" height="26" rx="13" fill="#161b22" stroke="#ffa657" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="268" y="295" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">RabbitMQ</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.43s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="2.43s" fill="freeze"/>
+    <rect x="321" y="278" width="74" height="26" rx="13" fill="#161b22" stroke="#ffa657" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="359" y="295" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">BullMQ</text>
+  </g>
+  <rect x="18" y="320" width="6" height="14" rx="2" fill="#79c0ff" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="2.74s" fill="freeze"/>
+  </rect>
+  <g clip-path="url(#hclip4)">
+    <text x="30" y="334" font-family="Menlo, Consolas, monospace" font-size="14" font-weight="bold" fill="#79c0ff">./tooling/</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.89s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="2.89s" fill="freeze"/>
+    <rect x="34" y="350" width="155" height="26" rx="13" fill="#161b22" stroke="#79c0ff" stroke-opacity="0.85" stroke-width="1.4"/>
+    <text x="111" y="367" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Docker &amp; Compose</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="2.95s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="2.95s" fill="freeze"/>
+    <rect x="197" y="350" width="123" height="26" rx="13" fill="#161b22" stroke="#79c0ff" stroke-opacity="0.85" stroke-width="1.4"/>
+    <text x="258" y="367" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Git &amp; GitHub</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.01s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="3.01s" fill="freeze"/>
+    <rect x="328" y="350" width="74" height="26" rx="13" fill="#161b22" stroke="#79c0ff" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="365" y="367" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Vercel</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.07s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="3.07s" fill="freeze"/>
+    <rect x="410" y="350" width="82" height="26" rx="13" fill="#161b22" stroke="#79c0ff" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="451" y="367" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Postman</text>
+  </g>
+  <rect x="18" y="392" width="6" height="14" rx="2" fill="#f78166" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.38s" fill="freeze"/>
+  </rect>
+  <g clip-path="url(#hclip5)">
+    <text x="30" y="406" font-family="Menlo, Consolas, monospace" font-size="14" font-weight="bold" fill="#f78166">./practices/</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.53s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="3.53s" fill="freeze"/>
+    <rect x="34" y="422" width="252" height="26" rx="13" fill="#161b22" stroke="#f78166" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="160" y="439" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Data Structures &amp; Algorithms</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.59s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="3.59s" fill="freeze"/>
+    <rect x="294" y="422" width="115" height="26" rx="13" fill="#161b22" stroke="#f78166" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="351" y="439" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">OOP &amp; SOLID</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.65s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="3.65s" fill="freeze"/>
+    <rect x="416" y="422" width="155" height="26" rx="13" fill="#161b22" stroke="#f78166" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="494" y="439" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Software Testing</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="3.71s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="3.71s" fill="freeze"/>
+    <rect x="579" y="422" width="66" height="26" rx="13" fill="#161b22" stroke="#f78166" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="612" y="439" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Agile</text>
+  </g>
+  <rect x="18" y="464" width="6" height="14" rx="2" fill="#e3b341" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="4.02s" fill="freeze"/>
+  </rect>
+  <g clip-path="url(#hclip6)">
+    <text x="30" y="478" font-family="Menlo, Consolas, monospace" font-size="14" font-weight="bold" fill="#e3b341">./working-style/</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="4.17s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="4.17s" fill="freeze"/>
+    <rect x="34" y="494" width="147" height="26" rx="13" fill="#161b22" stroke="#e3b341" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="107" y="511" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Problem-Solving</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="4.23s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="4.23s" fill="freeze"/>
+    <rect x="189" y="494" width="179" height="26" rx="13" fill="#161b22" stroke="#e3b341" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="278" y="511" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Root-Cause Analysis</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="4.29s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="4.29s" fill="freeze"/>
+    <rect x="376" y="494" width="219" height="26" rx="13" fill="#161b22" stroke="#e3b341" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="486" y="511" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">System Design Trade-offs</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="4.35s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="4.35s" fill="freeze"/>
+    <rect x="603" y="494" width="131" height="26" rx="13" fill="#161b22" stroke="#e3b341" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="669" y="511" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Communication</text>
+  </g>
+  <g opacity="0" transform="translate(0,6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.35s" begin="4.41s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" dur="0.35s" begin="4.41s" fill="freeze"/>
+    <rect x="742" y="494" width="90" height="26" rx="13" fill="#161b22" stroke="#e3b341" stroke-opacity="0.55" stroke-width="1"/>
+    <text x="788" y="511" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="13" fill="#c9d1d9">Teamwork</text>
+  </g>
+  <rect x="34" y="62" width="107" height="26" rx="13" fill="none" stroke="#7ee787" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="2.4s" begin="5.02s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="34" y="134" width="90" height="26" rx="13" fill="none" stroke="#58a6ff" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="2.4s" begin="5.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="124" y="206" width="74" height="26" rx="13" fill="none" stroke="#d2a8ff" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="2.4s" begin="5.38s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="34" y="278" width="107" height="26" rx="13" fill="none" stroke="#ffa657" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="2.4s" begin="5.56s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="34" y="350" width="155" height="26" rx="13" fill="none" stroke="#79c0ff" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="2.4s" begin="5.74s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="197" y="350" width="123" height="26" rx="13" fill="none" stroke="#79c0ff" stroke-width="1.4" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="2.4s" begin="5.92s" repeatCount="indefinite"/>
+  </rect>
+</svg>

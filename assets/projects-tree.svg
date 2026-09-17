@@ -1,0 +1,87 @@
+<svg width="880" height="330" viewBox="0 0 880 330" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="prL1"><rect x="20" y="48" width="0" height="24"><animate attributeName="width" from="0" to="430" dur="0.7s" begin="0.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="prL2"><rect x="20" y="72" width="0" height="24"><animate attributeName="width" from="0" to="470" dur="0.6s" begin="1.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="prL3"><rect x="20" y="94" width="0" height="24"><animate attributeName="width" from="0" to="520" dur="0.6s" begin="1.7s" fill="freeze"/></rect></clipPath>
+
+    <clipPath id="prL4"><rect x="20" y="110" width="0" height="24"><animate attributeName="width" from="0" to="360" dur="0.6s" begin="2.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="prL5"><rect x="20" y="134" width="0" height="24"><animate attributeName="width" from="0" to="440" dur="0.6s" begin="3.2s" fill="freeze"/></rect></clipPath>
+
+    <clipPath id="prL6"><rect x="20" y="162" width="0" height="24"><animate attributeName="width" from="0" to="330" dur="0.6s" begin="3.9s" fill="freeze"/></rect></clipPath>
+    <clipPath id="prL7"><rect x="20" y="186" width="0" height="24"><animate attributeName="width" from="0" to="400" dur="0.6s" begin="4.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="prL8"><rect x="20" y="208" width="0" height="24"><animate attributeName="width" from="0" to="380" dur="0.6s" begin="5.3s" fill="freeze"/></rect></clipPath>
+
+    <clipPath id="prL9"><rect x="20" y="236" width="0" height="24"><animate attributeName="width" from="0" to="370" dur="0.6s" begin="6.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="prL10"><rect x="20" y="260" width="0" height="24"><animate attributeName="width" from="0" to="450" dur="0.6s" begin="6.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="prL11"><rect x="20" y="282" width="0" height="24"><animate attributeName="width" from="0" to="460" dur="0.6s" begin="7.4s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="329" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="20" r="6" fill="#27c93f"/>
+  <text x="440" y="24" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="12" fill="#8b949e">moaaz@dev:~/projects$ tree -L 1</text>
+  <line x1="0" y1="36" x2="880" y2="36" stroke="#21262d" stroke-width="1"/>
+
+  <g clip-path="url(#prL1)">
+    <text x="20" y="66" font-family="Menlo, Consolas, monospace" font-size="15">
+      <tspan fill="#484f58">├── </tspan><tspan fill="#79c0ff" font-weight="bold">tourism-agency-platform/</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#prL2)">
+    <text x="20" y="90" font-family="Menlo, Consolas, monospace" font-size="14">
+      <tspan fill="#484f58">│    </tspan><tspan fill="#c9d1d9">React · Vite · TailwindCSS · Framer Motion</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#prL3)">
+    <text x="20" y="112" font-family="Menlo, Consolas, monospace" font-size="14">
+      <tspan fill="#484f58">│    </tspan><tspan fill="#6e7681" font-style="italic"># real client project — live on Vercel, 2-week sprint</tspan>
+    </text>
+  </g>
+
+  <g clip-path="url(#prL4)">
+    <text x="20" y="128" font-family="Menlo, Consolas, monospace" font-size="15">
+      <tspan fill="#484f58">├── </tspan><tspan fill="#79c0ff" font-weight="bold">task-management-system/</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#prL5)">
+    <text x="20" y="152" font-family="Menlo, Consolas, monospace" font-size="14">
+      <tspan fill="#484f58">│    </tspan><tspan fill="#c9d1d9">NestJS · TypeORM · PostgreSQL · Ionic React</tspan>
+    </text>
+  </g>
+
+  <g clip-path="url(#prL6)">
+    <text x="20" y="180" font-family="Menlo, Consolas, monospace" font-size="15">
+      <tspan fill="#484f58">├── </tspan><tspan fill="#79c0ff" font-weight="bold">wassalha-p2p-logistics/</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#prL7)">
+    <text x="20" y="204" font-family="Menlo, Consolas, monospace" font-size="14">
+      <tspan fill="#484f58">│    </tspan><tspan fill="#c9d1d9">React · React Router · TailwindCSS</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#prL8)">
+    <text x="20" y="226" font-family="Menlo, Consolas, monospace" font-size="14">
+      <tspan fill="#484f58">│    </tspan><tspan fill="#6e7681" font-style="italic"># CS systems-analysis coursework</tspan>
+    </text>
+  </g>
+
+  <g clip-path="url(#prL9)">
+    <text x="20" y="254" font-family="Menlo, Consolas, monospace" font-size="15">
+      <tspan fill="#484f58">└── </tspan><tspan fill="#79c0ff" font-weight="bold">subscription-box-platform/</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#prL10)">
+    <text x="20" y="278" font-family="Menlo, Consolas, monospace" font-size="14">
+      <tspan fill="#484f58">     </tspan><tspan fill="#c9d1d9">Laravel · PHP · PostgreSQL · TailwindCSS</tspan>
+    </text>
+  </g>
+  <g clip-path="url(#prL11)">
+    <text x="20" y="300" font-family="Menlo, Consolas, monospace" font-size="14">
+      <tspan fill="#484f58">     </tspan><tspan fill="#6e7681" font-style="italic"># software engineering coursework, team project</tspan>
+    </text>
+    <rect x="440" y="286" width="9" height="16" fill="#7ee787">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" begin="8.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

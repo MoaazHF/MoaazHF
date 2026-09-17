@@ -1,0 +1,123 @@
+<svg width="880" height="215" viewBox="0 0 880 215" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="capClip"><rect x="20" y="176" width="0" height="24">
+      <animate attributeName="width" from="0" to="620" dur="1s" begin="6.6s" fill="freeze"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="214" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="20" r="6" fill="#27c93f"/>
+  <text x="440" y="24" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="12" fill="#8b949e">.github/workflows/training.yml — run</text>
+  <line x1="0" y1="36" x2="880" y2="36" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Box 1: ITI -->
+  <g>
+    <rect x="80" y="50" width="200" height="100" rx="10" fill="none" stroke="#7ee787" stroke-width="2"
+          stroke-dasharray="600" stroke-dashoffset="600">
+      <animate attributeName="stroke-dashoffset" from="600" to="0" dur="1s" begin="0s" fill="freeze"/>
+    </rect>
+    <rect x="81" y="51" width="198" height="98" rx="9" fill="#7ee787" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.06" dur="0.4s" begin="1s" fill="freeze"/>
+    </rect>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.2s" fill="freeze"/>
+      <text x="180" y="82" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="16" font-weight="bold" fill="#7ee787">ITI</text>
+      <text x="180" y="106" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="12" fill="#c9d1d9">Web Development .NET</text>
+      <text x="180" y="126" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="11" fill="#8b949e">120h · Jul 2025</text>
+    </g>
+    <circle cx="264" cy="66" r="10" fill="#0d1117" stroke="#7ee787" stroke-width="1.5" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="1.6s" fill="freeze"/>
+    </circle>
+    <path d="M 259 66 L 263 70 L 270 62" fill="none" stroke="#7ee787" stroke-width="2"
+          stroke-dasharray="16" stroke-dashoffset="16">
+      <animate attributeName="stroke-dashoffset" from="16" to="0" dur="0.3s" begin="1.65s" fill="freeze"/>
+    </path>
+  </g>
+
+  <!-- Arrow 1 -->
+  <line x1="284" y1="100" x2="336" y2="100" stroke="#30363d" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2s" fill="freeze"/>
+  </line>
+  <path d="M 330 94 L 338 100 L 330 106" fill="none" stroke="#30363d" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="2s" fill="freeze"/>
+  </path>
+  <line x1="284" y1="100" x2="330" y2="100" stroke="#58a6ff" stroke-width="2" stroke-dasharray="4 8" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="2.1s" fill="freeze"/>
+    <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="1.4s" begin="2.1s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Box 2: DEPI -->
+  <g>
+    <rect x="340" y="50" width="200" height="100" rx="10" fill="none" stroke="#58a6ff" stroke-width="2"
+          stroke-dasharray="600" stroke-dashoffset="600">
+      <animate attributeName="stroke-dashoffset" from="600" to="0" dur="1s" begin="2.2s" fill="freeze"/>
+    </rect>
+    <rect x="341" y="51" width="198" height="98" rx="9" fill="#58a6ff" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.06" dur="0.4s" begin="3.2s" fill="freeze"/>
+    </rect>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.4s" fill="freeze"/>
+      <text x="440" y="82" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="16" font-weight="bold" fill="#58a6ff">DEPI</text>
+      <text x="440" y="106" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="12" fill="#c9d1d9">React Development</text>
+      <text x="440" y="126" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="11" fill="#8b949e">159h · Jul 2026</text>
+    </g>
+    <circle cx="524" cy="66" r="10" fill="#0d1117" stroke="#58a6ff" stroke-width="1.5" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="3.8s" fill="freeze"/>
+    </circle>
+    <path d="M 519 66 L 523 70 L 530 62" fill="none" stroke="#58a6ff" stroke-width="2"
+          stroke-dasharray="16" stroke-dashoffset="16">
+      <animate attributeName="stroke-dashoffset" from="16" to="0" dur="0.3s" begin="3.85s" fill="freeze"/>
+    </path>
+  </g>
+
+  <!-- Arrow 2 -->
+  <line x1="544" y1="100" x2="596" y2="100" stroke="#30363d" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.2s" fill="freeze"/>
+  </line>
+  <path d="M 590 94 L 598 100 L 590 106" fill="none" stroke="#30363d" stroke-width="2" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="4.2s" fill="freeze"/>
+  </path>
+  <line x1="544" y1="100" x2="590" y2="100" stroke="#d2a8ff" stroke-width="2" stroke-dasharray="4 8" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.9" dur="0.2s" begin="4.3s" fill="freeze"/>
+    <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="1.4s" begin="4.3s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Box 3: NTI AWS -->
+  <g>
+    <rect x="600" y="50" width="200" height="100" rx="10" fill="none" stroke="#d2a8ff" stroke-width="2"
+          stroke-dasharray="600" stroke-dashoffset="600">
+      <animate attributeName="stroke-dashoffset" from="600" to="0" dur="1s" begin="4.4s" fill="freeze"/>
+    </rect>
+    <rect x="601" y="51" width="198" height="98" rx="9" fill="#d2a8ff" opacity="0">
+      <animate attributeName="opacity" from="0" to="0.06" dur="0.4s" begin="5.4s" fill="freeze"/>
+    </rect>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="5.6s" fill="freeze"/>
+      <text x="700" y="78" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="14" font-weight="bold" fill="#d2a8ff">NTI AWS Academy</text>
+      <text x="700" y="102" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="11.5" fill="#c9d1d9">Cloud Foundations + SAA</text>
+      <text x="700" y="124" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="11" fill="#8b949e">90h · Sep 2026</text>
+    </g>
+    <circle cx="784" cy="66" r="10" fill="#0d1117" stroke="#d2a8ff" stroke-width="1.5" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.2s" begin="6s" fill="freeze"/>
+    </circle>
+    <path d="M 779 66 L 783 70 L 790 62" fill="none" stroke="#d2a8ff" stroke-width="2"
+          stroke-dasharray="16" stroke-dashoffset="16">
+      <animate attributeName="stroke-dashoffset" from="16" to="0" dur="0.3s" begin="6.05s" fill="freeze"/>
+    </path>
+  </g>
+
+  <g clip-path="url(#capClip)">
+    <text x="20" y="194" font-family="Menlo, Consolas, monospace" font-size="13">
+      <tspan fill="#6e7681">↳ also self-studying </tspan><tspan fill="#c9d1d9" font-style="italic">Backend from First Principles</tspan><tspan fill="#6e7681"> (YouTube)</tspan>
+    </text>
+  </g>
+  <rect x="646" y="181" width="70" height="18" rx="9" fill="none" stroke="#e3b341" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0.9;0" dur="1.8s" begin="7.6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="681" y="194" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="10" fill="#e3b341" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0.9;0" dur="1.8s" begin="7.6s" repeatCount="indefinite"/>
+    ongoing
+  </text>
+</svg>

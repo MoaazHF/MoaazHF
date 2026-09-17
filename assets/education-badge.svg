@@ -1,0 +1,52 @@
+<svg width="880" height="130" viewBox="0 0 880 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="eduL1"><rect x="120" y="30" width="0" height="26">
+      <animate attributeName="width" from="0" to="420" dur="0.7s" begin="0.9s" fill="freeze"/>
+    </rect></clipPath>
+    <clipPath id="eduL2"><rect x="120" y="58" width="0" height="24">
+      <animate attributeName="width" from="0" to="300" dur="0.6s" begin="1.6s" fill="freeze"/>
+    </rect></clipPath>
+    <clipPath id="eduL3"><rect x="120" y="86" width="0" height="24">
+      <animate attributeName="width" from="0" to="380" dur="0.6s" begin="2.3s" fill="freeze"/>
+    </rect></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="879" height="129" rx="12" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- badge ring -->
+  <circle cx="58" cy="65" r="34" fill="none" stroke="#30363d" stroke-width="2"/>
+  <circle cx="58" cy="65" r="34" fill="none" stroke="#e3b341" stroke-width="2.5"
+          stroke-dasharray="214" stroke-dashoffset="214" transform="rotate(-90 58 65)">
+    <animate attributeName="stroke-dashoffset" from="214" to="0" dur="1.1s" begin="0.1s" fill="freeze"/>
+  </circle>
+
+  <!-- simplified graduation cap -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="1.1s" fill="freeze"/>
+    <polygon points="58,50 82,60 58,70 34,60" fill="#e3b341"/>
+    <rect x="52" y="60" width="12" height="14" rx="2" fill="#8b6a1a"/>
+    <line x1="82" y1="60" x2="82" y2="74" stroke="#e3b341" stroke-width="2"/>
+    <circle cx="82" cy="76" r="2.4" fill="#e3b341"/>
+  </g>
+
+  <g clip-path="url(#eduL1)">
+    <text x="120" y="50" font-family="Menlo, Consolas, monospace" font-size="18" font-weight="bold" fill="#79c0ff">Capital University (Helwan)</text>
+  </g>
+  <g clip-path="url(#eduL2)">
+    <text x="120" y="76" font-family="Menlo, Consolas, monospace" font-size="14" fill="#c9d1d9">B.Sc. Computer Science</text>
+  </g>
+  <g clip-path="url(#eduL3)">
+    <text x="120" y="102" font-family="Menlo, Consolas, monospace" font-size="13" fill="#8b949e">Cairo, Egypt · Expected Graduation: 2028</text>
+  </g>
+
+  <rect x="640" y="80" width="90" height="20" rx="10" fill="none" stroke="#7ee787" opacity="0">
+    <animate attributeName="opacity" values="0;0.85;0.85;0" dur="2s" begin="3.1s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="653" cy="90" r="4" fill="#7ee787" opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0" dur="2s" begin="3.1s" repeatCount="indefinite"/>
+  </circle>
+  <text x="665" y="94" font-family="Menlo, Consolas, monospace" font-size="10.5" fill="#7ee787" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0.9;0" dur="2s" begin="3.1s" repeatCount="indefinite"/>
+    in progress
+  </text>
+</svg>
