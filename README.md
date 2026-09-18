@@ -66,7 +66,7 @@ platform across ordering, logistics, payments, dashboards, and operational workf
 ## 🏫 Education
 
 <div align="center">
-  <img src="./assets/education-badge.svg" alt="B.Sc. Computer Science, Capital University (Helwan), expected 2028" width="880"/>
+  <img src="./assets/education-badge.svg" alt="B.Sc. Computer Science, Capital University (Helwan),2028" width="880"/>
 </div>
 
 <div align="center">
