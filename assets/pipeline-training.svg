@@ -113,7 +113,4 @@
       <tspan fill="#6e7681">↳ also self-studying </tspan><tspan fill="#c9d1d9" font-style="italic">Backend from First Principles</tspan><tspan fill="#6e7681"> (YouTube)</tspan>
     </text>
   </g>
-  <rect x="646" y="181" width="70" height="18" rx="9" fill="none" stroke="#e3b341" opacity="0">
-    <animate attributeName="opacity" values="0;0.9;0.9;0" dur="1.8s" begin="7.6s" repeatCount="indefinite"/>
-  </rect>
 </svg>
