@@ -1,4 +1,4 @@
-<h1 align="center">Moaaz Hassan Farouk</h1>
+<h1 align="center">Moaaz Hassan</h1>
 <p align="center">
 📍 Cairo, Egypt &nbsp;•&nbsp; 📧 moazhasanfarouk@gmail.com &nbsp;•&nbsp;
 <a href="https://github.com/MoaazHF">GitHub</a> &nbsp;•&nbsp;
