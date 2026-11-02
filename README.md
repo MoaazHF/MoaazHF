@@ -1,80 +1,56 @@
-<h1 align="center">Moaaz Hassan Farouk</h1>
 <p align="center">
-📍 Cairo, Egypt &nbsp;•&nbsp; 📧 moazhasanfarouk@gmail.com &nbsp;•&nbsp;
-<a href="https://github.com/MoaazHF">GitHub</a> &nbsp;•&nbsp;
+<a href="mailto:moazhasanfarouk@gmail.com">moazhasanfarouk@gmail.com</a> &nbsp;·&nbsp;
+<a href="https://github.com/MoaazHF">GitHub</a> &nbsp;·&nbsp;
 <a href="https://linkedin.com/in/moazhasan">LinkedIn</a>
 </p>
 
-<div align="center">
-  <img src="./assets/typing-banner.svg" alt="moaaz@dev:~$ whoami → Full-Stack Developer" width="640"/>
-</div>
+<p align="center">
+  <img src="./assets/notebook.svg" width="880" alt="Moaaz Hassan Farouk's notebook-style profile: summary, experience, projects, training, skills, education and availability. The same content is available as plain text below."/>
+</p>
 
-<div align="center">
-  <img src="./assets/divider.svg" alt="" width="880"/>
-</div>
+<details>
+<summary>Read as plain text</summary>
 
-## 📄 Professional Summary
+# Moaaz Hassan Farouk
 
-Full-Stack Developer and Computer Science student focused on backend services, API design, and web platforms
-using NestJS, React, TypeScript, PostgreSQL, and Docker. Currently contributing to a Saudi food delivery
-platform across ordering, logistics, payments, dashboards, and operational workflows.
+Cairo, Egypt
 
-<div align="center">
-  <img src="./assets/divider.svg" alt="" width="880"/>
-</div>
+Full-Stack Developer and Computer Science student focused on backend services, API design, and web platforms using NestJS, React, TypeScript, PostgreSQL, and Docker. Currently contributing to a Saudi food delivery platform across ordering, logistics, payments, dashboards, and operational workflows.
 
-## 💼 Experience
+## Experience
 
-<div align="center">
-  <img src="./assets/experience-gitlog.svg" alt="git log: Full-Stack Developer at RobinFood, Saudi Arabia, Mar 2026 – Present" width="880"/>
-</div>
+**Full-Stack Developer**, RobinFood (BAHJA AL-TAUM For IT LLC), Saudi Arabia · Mar 2026 – Present
 
-<div align="center">
-  <img src="./assets/divider.svg" alt="" width="880"/>
-</div>
+## Projects
 
-## 🧩 Projects
+- **Tourism Agency Platform**: React, Vite, TailwindCSS, Framer Motion. A real client project, live on Vercel, built in a 2-week sprint.
+- **Task Management System**: NestJS, TypeORM, PostgreSQL, Ionic React.
+- **Wassalha P2P Logistics**: React, React Router, TailwindCSS. CS systems-analysis coursework.
+- **Subscription Box Platform**: Laravel, PHP, PostgreSQL, TailwindCSS. Software engineering coursework, team project.
 
-<div align="center">
-  <img src="./assets/projects-tree.svg" alt="tree of projects: Tourism Agency Platform, Task Management System, Wassalha P2P Logistics, Subscription Box Platform" width="880"/>
-</div>
+## Training & Courses
 
-<div align="center">
-  <img src="./assets/divider.svg" alt="" width="880"/>
-</div>
+- **ITI**: Web Development .NET, 120h, Jul 2025
+- **DEPI**: React Development, 159h, Jul 2026
+- **NTI AWS Academy**: Cloud Foundations + SAA, 90h, Sep 2026
+- Also self-studying Backend from First Principles (YouTube), ongoing
 
-## 🎓 Training & Courses
+## Skills & Abilities
 
-<div align="center">
-  <img src="./assets/pipeline-training.svg" alt="training pipeline: ITI Web Development .NET, DEPI React Development, NTI AWS Academy Cloud Foundations" width="880"/>
-</div>
+- **Languages**: TypeScript, JavaScript ES6+, SQL, C
+- **Frontend**: React.js, Ionic React, TailwindCSS, Ant Design, Vite, Framer Motion
+- **Backend**: Node.js, NestJS, Express.js, REST & GraphQL, TypeORM
+- **Data & Messaging**: PostgreSQL, Redis, RabbitMQ, BullMQ
+- **Tooling**: Docker & Compose, Git & GitHub, Vercel, Postman
+- **Practices**: Data Structures & Algorithms, OOP & SOLID, Software Testing, Agile
+- **Working Style**: Problem-Solving, Root-Cause Analysis, System Design Trade-offs, Communication, Teamwork
 
-<div align="center">
-  <img src="./assets/divider.svg" alt="" width="880"/>
-</div>
+## Education
 
-## 🛠️ Skills & Abilities
+**B.Sc. Computer Science**, Capital University (Helwan), Cairo, Egypt. Expected Graduation: 2028 (in progress)
 
-<div align="center">
-  <img src="./assets/skills-grid.svg" alt="skills by category: Languages, Frontend, Backend, Data & Messaging, Tooling, Practices, Working Style" width="880"/>
-</div>
+## Languages & Status
 
-<div align="center">
-  <img src="./assets/divider.svg" alt="" width="880"/>
-</div>
+Open to backend & full-stack opportunities. English: professional reading, writing & speaking.
 
-## 🏫 Education
-
-<div align="center">
-  <img src="./assets/education-badge.svg" alt="B.Sc. Computer Science, Capital University (Helwan), expected 2028" width="880"/>
-</div>
-
-<div align="center">
-  <img src="./assets/divider.svg" alt="" width="880"/>
-</div>
-
-## 🌍 Languages & Status
-
-<div align="center">
-  <img src="./assets/footer-signoff.svg" alt="Open to backend and full-stack opportunities. English: professional reading, writing, speaking." width="880"/>
-</div>
+</details>
