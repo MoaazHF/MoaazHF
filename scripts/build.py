@@ -304,16 +304,16 @@ css = "".join(
     for cls, (font, rule) in STYLES.items()
 )
 
+# Paper matches GitHub's page colours (light and default dark).
 # Text never animates, so a renderer that freezes on the first frame loses only
 # decoration. Keyframes define just the start state, so the resting frame is complete.
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{HEIGHT}" viewBox="0 0 {W} {HEIGHT}" role="img" aria-label="Moaaz Hassan, Full-Stack Developer. Full text follows the image.">
 <style>
 {font_face("sans")}
 {font_face("serif")}
-:root{{--paper:#f8f7f4;--ink:#1d1c1a;--graphite:#5c5953;--faint:#8e8a83;--rule:#dedbd4;--grain:.16;--blend:multiply}}
-@media (prefers-color-scheme:dark){{:root{{--paper:#1a1a19;--ink:#e9e7e2;--graphite:#a9a69e;--faint:#7a776f;--rule:#33322f;--grain:.4;--blend:soft-light}}}}
+:root{{--paper:#ffffff;--ink:#1d1c1a;--graphite:#5c5953;--faint:#8e8a83;--rule:#dedbd4}}
+@media (prefers-color-scheme:dark){{:root{{--paper:#0d1117;--ink:#e9e7e2;--graphite:#a9a69e;--faint:#7a776f;--rule:#33322f}}}}
 .paper{{fill:var(--paper)}}
-.tex{{opacity:var(--grain);mix-blend-mode:var(--blend)}}
 .blot{{fill:var(--ink);transform-box:fill-box;transform-origin:center}}
 .ring{{fill:none;stroke:var(--rule);stroke-width:1.2}}
 .pencil{{fill:none;stroke:var(--graphite);stroke-opacity:.6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:0}}
@@ -323,13 +323,11 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{HEIGHT}" 
 @media (prefers-reduced-motion:reduce){{*{{animation:none!important}}}}
 </style>
 <defs>
-<filter id="grain" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="3" seed="11" stitchTiles="stitch"/><feColorMatrix values="0 0 0 0 .35 0 0 0 0 .32 0 0 0 0 .27 0 0 0 .5 0"/></filter>
 <filter id="edge" x="-40%" y="-40%" width="180%" height="180%"><feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="4"/><feDisplacementMap in="SourceGraphic" scale="2"/></filter>
 <clipPath id="sheet"><rect width="{W}" height="{HEIGHT}" rx="14"/></clipPath>
 </defs>
 <g clip-path="url(#sheet)">
 <rect class="paper" width="{W}" height="{HEIGHT}"/>
-<rect class="tex" width="{W}" height="{HEIGHT}" filter="url(#grain)"/>
 {chr(10).join(body)}
 </g>
 </svg>
