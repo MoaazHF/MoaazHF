@@ -146,10 +146,9 @@ blot(68, 56, 8.5, 7, delay=0)
 text(90, 66, "moaaz.", "mark")
 text(RIGHT, 64, "Cairo, Egypt", "cap", anchor="end")
 
-text(LEFT - 3, 186, "Moaaz Hassan", "title")
-text(LEFT - 3, 268, "Farouk.", "title")
+text(LEFT - 3, 186, "Moaaz Hassan.", "title")
 
-y = 344
+y = 262
 INTRO = [
     "Full-Stack Developer and Computer Science",
     "student focused on backend services, API",
@@ -172,7 +171,7 @@ margin_note(
 )
 
 # --- Experience ---------------------------------------------------------------
-y = 566
+y = 498
 text(LEFT, y, "Experience", "h2")
 y += 62
 text(LEFT, y, "Full-Stack Developer", "h3")
@@ -247,7 +246,7 @@ for i, (x, label, course, meta) in enumerate(TRAINING):
     text(x, y + 108, meta, "cap")
 y += 166
 blot(LEFT + 6, y - 7, 4.5, 37)
-text(LEFT + 24, y, "Also self-studying Backend from First Principles (YouTube). Ongoing.", "voice")
+text(LEFT + 24, y, "Also self-studying Backend from First Principles (YouTube).", "voice")
 
 # --- Skills -------------------------------------------------------------------
 y += 92
@@ -307,7 +306,7 @@ css = "".join(
 
 # Text never animates, so a renderer that freezes on the first frame loses only
 # decoration. Keyframes define just the start state, so the resting frame is complete.
-svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{HEIGHT}" viewBox="0 0 {W} {HEIGHT}" role="img" aria-label="Moaaz Hassan Farouk, Full-Stack Developer. Full text follows the image.">
+svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{HEIGHT}" viewBox="0 0 {W} {HEIGHT}" role="img" aria-label="Moaaz Hassan, Full-Stack Developer. Full text follows the image.">
 <style>
 {font_face("sans")}
 {font_face("serif")}
@@ -345,7 +344,7 @@ external = set(re.findall(r"https?://[^\"')\s]+", svg)) - {"http://www.w3.org/20
 assert not external, f"external URLs: {external}"
 
 FACTS = [
-    "Moaaz Hassan", "Farouk", "Cairo, Egypt", "Full-Stack Developer", "Computer Science",
+    "Moaaz Hassan", "Cairo, Egypt", "Full-Stack Developer", "Computer Science",
     "NestJS", "TypeScript", "PostgreSQL", "Docker", "Saudi food delivery",
     "RobinFood", "BAHJA AL-TAUM For IT LLC", "Saudi Arabia", "Mar 2026 – Present",
     "Tourism Agency Platform", "Task Management System", "Wassalha P2P Logistics",

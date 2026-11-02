@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <img src="./assets/notebook.svg" width="880" alt="Moaaz Hassan Farouk's notebook-style profile: summary, experience, projects, training, skills, education and availability. The same content is available as plain text below."/>
+  <img src="./assets/notebook.svg" width="880" alt="Moaaz Hassan's notebook-style profile: summary, experience, projects, training, skills, education and availability. The same content is available as plain text below."/>
 </p>
 
 <details>
 <summary>Read as plain text</summary>
 
-# Moaaz Hassan Farouk
+# Moaaz Hassan
 
 Cairo, Egypt
 
@@ -33,7 +33,7 @@ Full-Stack Developer and Computer Science student focused on backend services, A
 - **ITI**: Web Development .NET, 120h, Jul 2025
 - **DEPI**: React Development, 159h, Jul 2026
 - **NTI AWS Academy**: Cloud Foundations + SAA, 90h, Sep 2026
-- Also self-studying Backend from First Principles (YouTube), ongoing
+- Also self-studying Backend from First Principles (YouTube)
 
 ## Skills & Abilities
 
