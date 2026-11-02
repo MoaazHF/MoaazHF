@@ -36,7 +36,6 @@ body = []
 
 # class -> (font, css). The sans is the work, the serif is the voice in the margin.
 STYLES = {
-    "title": ("sans", "font-size:80px;font-weight:500;letter-spacing:-.036em;fill:var(--ink)"),
     "h2": ("sans", "font-size:36px;font-weight:500;letter-spacing:-.028em;fill:var(--ink)"),
     "h3": ("sans", "font-size:25px;font-weight:550;letter-spacing:-.015em;fill:var(--ink)"),
     "note": ("sans", "font-size:22px;letter-spacing:-.004em;fill:var(--ink)"),
@@ -46,7 +45,6 @@ STYLES = {
     "voice": ("serif", "font-size:22.5px;letter-spacing:.004em;fill:var(--ink)"),
     "label": ("serif", "font-size:26px;letter-spacing:.004em;fill:var(--ink)"),
     "mark": ("serif", "font-size:30px;letter-spacing:-.01em;fill:var(--ink)"),
-    "big": ("serif", "font-size:37px;letter-spacing:-.006em;fill:var(--ink)"),
 }
 
 
@@ -146,9 +144,7 @@ blot(68, 56, 8.5, 7, delay=0)
 text(90, 66, "moaaz.", "mark")
 text(RIGHT, 64, "Cairo, Egypt", "cap", anchor="end")
 
-text(LEFT - 3, 186, "Moaaz Hassan.", "title")
-
-y = 262
+y = 136
 INTRO = [
     "Full-Stack Developer and Computer Science",
     "student focused on backend services, API",
@@ -171,7 +167,7 @@ margin_note(
 )
 
 # --- Experience ---------------------------------------------------------------
-y = 498
+y = 372
 text(LEFT, y, "Experience", "h2")
 y += 62
 text(LEFT, y, "Full-Stack Developer", "h3")
@@ -275,9 +271,8 @@ text(LEFT, y + 68, "Cairo, Egypt / Expected Graduation: 2028", "cap")
 margin_note(y + 4, ["In progress."], 41)
 
 # --- Sign-off -----------------------------------------------------------------
-y += 164
-pencil(wobble(LEFT, y - 58, RIGHT, y - 58, 43, amp=1.2), delay=7)
-text(LEFT, y, "Open to backend & full-stack opportunities.", "big")
+y += 106
+pencil(wobble(LEFT, y, RIGHT, y, 43, amp=1.2), delay=7)
 y += 44
 text(LEFT, y, "English: professional reading, writing & speaking.", "sub")
 blot(RIGHT - 8, y - 8, 7, 47)
@@ -342,7 +337,7 @@ external = set(re.findall(r"https?://[^\"')\s]+", svg)) - {"http://www.w3.org/20
 assert not external, f"external URLs: {external}"
 
 FACTS = [
-    "Moaaz Hassan", "Cairo, Egypt", "Full-Stack Developer", "Computer Science",
+    "Cairo, Egypt", "Full-Stack Developer", "Computer Science",
     "NestJS", "TypeScript", "PostgreSQL", "Docker", "Saudi food delivery",
     "RobinFood", "BAHJA AL-TAUM For IT LLC", "Saudi Arabia", "Mar 2026 – Present",
     "Tourism Agency Platform", "Task Management System", "Wassalha P2P Logistics",
@@ -350,7 +345,7 @@ FACTS = [
     "Web Development .NET", "120h", "Jul 2025", "React Development", "159h", "Jul 2026",
     "NTI AWS Academy", "Cloud Foundations + SAA", "90h", "Sep 2026",
     "Backend from First Principles", "Capital University (Helwan)", "B.Sc. Computer Science",
-    "Expected Graduation: 2028", "backend & full-stack opportunities",
+    "Expected Graduation: 2028",
     "professional reading, writing & speaking",
 ] + [skill for _, items in SKILLS for skill in items] + [category for category, _ in SKILLS]
 

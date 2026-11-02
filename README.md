@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/notebook.svg" width="880" alt="Moaaz Hassan's notebook-style profile: summary, experience, projects, training, skills, education and availability. The same content is available as plain text below."/>
+  <img src="./assets/notebook.svg" width="880" alt="Moaaz Hassan's notebook-style profile: summary, experience, projects, training, skills, education and languages. The same content is available as plain text below."/>
 </p>
 
 <details>
@@ -49,8 +49,8 @@ Full-Stack Developer and Computer Science student focused on backend services, A
 
 **B.Sc. Computer Science**, Capital University (Helwan), Cairo, Egypt. Expected Graduation: 2028 (in progress)
 
-## Languages & Status
+## Languages
 
-Open to backend & full-stack opportunities. English: professional reading, writing & speaking.
+English: professional reading, writing & speaking.
 
 </details>
