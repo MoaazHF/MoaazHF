@@ -10,7 +10,6 @@
 .ring{fill:none;stroke:var(--rule);stroke-width:1.2}
 .pencil{fill:none;stroke:var(--graphite);stroke-opacity:.6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:0}
 .title{font-family:nb-sans,ui-sans-serif,system-ui,sans-serif;font-size:80px;font-weight:500;letter-spacing:-.036em;fill:var(--ink)}.h2{font-family:nb-sans,ui-sans-serif,system-ui,sans-serif;font-size:36px;font-weight:500;letter-spacing:-.028em;fill:var(--ink)}.h3{font-family:nb-sans,ui-sans-serif,system-ui,sans-serif;font-size:25px;font-weight:550;letter-spacing:-.015em;fill:var(--ink)}.note{font-family:nb-sans,ui-sans-serif,system-ui,sans-serif;font-size:22px;letter-spacing:-.004em;fill:var(--ink)}.sub{font-family:nb-sans,ui-sans-serif,system-ui,sans-serif;font-size:20px;letter-spacing:-.004em;fill:var(--graphite)}.cap{font-family:nb-sans,ui-sans-serif,system-ui,sans-serif;font-size:18px;fill:var(--faint)}.pill{font-family:nb-sans,ui-sans-serif,system-ui,sans-serif;font-size:18px;fill:var(--graphite)}.voice{font-family:nb-serif,ui-serif,Georgia,serif;font-size:22.5px;letter-spacing:.004em;fill:var(--ink)}.label{font-family:nb-serif,ui-serif,Georgia,serif;font-size:26px;letter-spacing:.004em;fill:var(--ink)}.mark{font-family:nb-serif,ui-serif,Georgia,serif;font-size:30px;letter-spacing:-.01em;fill:var(--ink)}.big{font-family:nb-serif,ui-serif,Georgia,serif;font-size:37px;letter-spacing:-.006em;fill:var(--ink)}
-@keyframes in{from{opacity:0;transform:translateY(3px)}}
 @keyframes draw{from{stroke-dashoffset:1}}
 @keyframes splat{from{transform:scale(.12);opacity:0}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
@@ -35,12 +34,12 @@
 <path class="pencil" pathLength="1" d="M56.0 388.0 Q102.7 387.2 126.0 387.7 Q149.3 388.1 172.6 387.9 Q196.0 387.6 219.3 388.0 Q242.6 388.3 265.9 388.4 Q289.3 388.4 312.6 387.5 Q335.9 386.6 359.2 386.5 Q382.6 386.4 405.9 387.8 Q429.2 389.1 452.5 388.5 L475.9 388.0" style="animation:draw 1.0s cubic-bezier(.4,.1,.5,1) 0.6s both"/>
 <path class="pencil" pathLength="1" d="M480 386 C506 384 516 368 536 342" style="animation:draw 0.5s cubic-bezier(.4,.1,.5,1) 1.5s both"/>
 <g transform="translate(544 341)"><g class="blot" filter="url(#edge)" style="animation:splat .46s cubic-bezier(.2,.9,.25,1.12) 1.8s both"><path d="M4.49 -1.10 Q4.41 0.00 4.28 1.00 Q4.15 2.00 3.72 3.06 Q3.28 4.12 2.13 4.22 Q0.99 4.33 -0.01 4.36 Q-1.00 4.40 -1.95 4.02 Q-2.90 3.64 -3.22 2.67 Q-3.54 1.71 -4.03 0.85 Q-4.52 0.00 -4.39 -1.03 Q-4.26 -2.05 -3.70 -2.99 Q-3.13 -3.93 -1.99 -3.80 Q-0.84 -3.67 0.04 -3.86 Q0.92 -4.04 1.63 -3.49 Q2.35 -2.94 3.45 -2.57 Q4.56 -2.19 4.49 -1.10 Z"/><circle cx="-2.14" cy="-5.77" r="0.71"/><circle cx="7.22" cy="-1.63" r="0.56"/><circle cx="3.35" cy="5.10" r="0.53"/></g></g>
-<text x="560" y="348" class="voice" style="animation:in .7s ease-out 1.8s both">Currently contributing to</text>
-<text x="560" y="378" class="voice" style="animation:in .7s ease-out 1.8s both">a Saudi food delivery</text>
-<text x="560" y="408" class="voice" style="animation:in .7s ease-out 1.8s both">platform across ordering,</text>
-<text x="560" y="438" class="voice" style="animation:in .7s ease-out 1.8s both">logistics, payments,</text>
-<text x="560" y="468" class="voice" style="animation:in .7s ease-out 1.8s both">dashboards, and</text>
-<text x="560" y="498" class="voice" style="animation:in .7s ease-out 1.8s both">operational workflows.</text>
+<text x="560" y="348" class="voice">Currently contributing to</text>
+<text x="560" y="378" class="voice">a Saudi food delivery</text>
+<text x="560" y="408" class="voice">platform across ordering,</text>
+<text x="560" y="438" class="voice">logistics, payments,</text>
+<text x="560" y="468" class="voice">dashboards, and</text>
+<text x="560" y="498" class="voice">operational workflows.</text>
 <text x="56" y="566" class="h2">Experience</text>
 <text x="56" y="628" class="h3">Full-Stack Developer</text>
 <text x="56" y="664" class="note">RobinFood (BAHJA AL-TAUM For IT LLC)</text>

@@ -59,17 +59,15 @@ def measure(s, cls):
     return sum(hmtx[cmap[ord(c)]][0] for c in s) * size / font["head"].unitsPerEm
 
 
-def text(x, y, s, cls, anchor=None, delay=None):
+def text(x, y, s, cls, anchor=None):
     used[STYLES[cls][0]].update(s)
     attrs = f' text-anchor="{anchor}"' if anchor else ""
-    if delay is not None:
-        attrs += f' style="animation:in .7s ease-out {delay}s both"'
     body.append(f'<text x="{x}" y="{y}" class="{cls}"{attrs}>{escape(s)}</text>')
 
 
-def lines(x, y, rows, cls, step, delay=None):
+def lines(x, y, rows, cls, step):
     for i, row in enumerate(rows):
-        text(x, y + i * step, row, cls, delay=delay)
+        text(x, y + i * step, row, cls)
     return y + len(rows) * step
 
 
@@ -126,7 +124,7 @@ def margin_note(y, rows, seed, delay=None):
     for row in rows:
         assert MARGIN + measure(row, "voice") <= W - 32, f"margin note too wide: {row}"
     blot(MARGIN - 16, y - 7, 4.5, seed, delay)
-    lines(MARGIN, y, rows, "voice", 30, delay)
+    lines(MARGIN, y, rows, "voice", 30)
 
 
 def pills(x, y, items):
@@ -307,8 +305,8 @@ css = "".join(
     for cls, (font, rule) in STYLES.items()
 )
 
-# Keyframes only define the start state and fill backwards, so the resting frame
-# is always complete, whether or not a renderer plays the animation.
+# Text never animates, so a renderer that freezes on the first frame loses only
+# decoration. Keyframes define just the start state, so the resting frame is complete.
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{HEIGHT}" viewBox="0 0 {W} {HEIGHT}" role="img" aria-label="Moaaz Hassan Farouk, Full-Stack Developer. Full text follows the image.">
 <style>
 {font_face("sans")}
@@ -321,7 +319,6 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{HEIGHT}" 
 .ring{{fill:none;stroke:var(--rule);stroke-width:1.2}}
 .pencil{{fill:none;stroke:var(--graphite);stroke-opacity:.6;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:0}}
 {css}
-@keyframes in{{from{{opacity:0;transform:translateY(3px)}}}}
 @keyframes draw{{from{{stroke-dashoffset:1}}}}
 @keyframes splat{{from{{transform:scale(.12);opacity:0}}}}
 @media (prefers-reduced-motion:reduce){{*{{animation:none!important}}}}
